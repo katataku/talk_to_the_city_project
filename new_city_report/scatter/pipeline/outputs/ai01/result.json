@@ -1,0 +1,901 @@
+{
+  "clusters": [
+    {
+      "cluster": "Equitable Development and Deployment",
+      "cluster_id": "0",
+      "takeaways": "<think>\nAlright, so I need to figure out how to summarize these points about AI governance and its alignment with democratic principles. Let me start by reading through each of the points to understand what they're saying.\n\nFirst, the user mentions that AI should align with democratic principles, not just Western democracies but applicable worldwide. That means AI shouldn't just follow the political systems of Western countries but should be adaptable to different democratic frameworks globally.\n\nNext, there's an emphasis on public awareness, education, and participation regarding AI and the environment. So, people need to be informed about AI and its impact on the environment, and they should be involved in discussions or decisions related to AI.\n\nThe benefits and risks of AI should be fairly distributed and not concentrated in just a few groups. This suggests that AI development should aim for equity, ensuring that all groups can benefit and that no single group bears the majority of the risks.\n\nAI development should encourage innovation and ensure its benefits are accessible to everyone, regardless of location or economic status. This ties into the idea of equity but also highlights the importance of accessibility and inclusivity in AI development.\n\nAI should focus on solving societal challenges rather than solely being for profit. This means that the primary goal of AI should be to address significant issues in society, not just to generate profit for companies or individuals.\n\nWhile global AI standards have value, localized regulations that respect cultural and societal norms are crucial. This indicates that while having overarching standards is important, each region should have the flexibility to create regulations that fit their specific cultural and societal contexts.\n\nThe governance of AI should include diverse stakeholders like civil society, academia, and industry. This emphasizes the importance of a collaborative approach, involving various sectors to ensure well-rounded and representative decision-making.\n\nWe should educate the public about the capabilities of AI. This reinforces the earlier point about public awareness and education, highlighting the need to inform people about what AI can and cannot do.\n\nFinally, governments should expand access to data while protecting privacy to enable AI for good. This suggests that data accessibility is crucial for AI development, but it must be balanced with strong privacy protections to ensure ethical use.\n\nNow, to summarize these points concisely, I should identify the main themes and ensure that each is represented clearly and succinctly. The key themes are:\n\n1. Alignment of AI with democratic principles globally.\n2. Importance of public awareness, education, and participation.\n3. Fair distribution of AI benefits and risks.\n4. Focus on societal challenges over profit.\n5. Need for localized regulations alongside global standards.\n6. Inclusive governance involving diverse stakeholders.\n7. Public education on AI capabilities.\n8. Balancing data access with privacy protections.\n\nI should make sure the summary captures all these elements without being too wordy. It should be clear and to the point, highlighting the essential aspects discussed in the points.\n</think>\n\nParticipants emphasized that AI should align with democratic principles worldwide, ensuring equitable distribution of benefits and risks. They stressed the importance of public awareness, education, and participation, particularly regarding AI's environmental impact. AI should prioritize solving societal challenges over profit and be governed inclusively by diverse stakeholders. While global standards are valuable, localized regulations respecting cultural norms are crucial. Additionally, educating the public about AI's capabilities and balancing data access with privacy protections are key to fostering ethical AI development.",
+      "arguments": [
+        {
+          "arg_id": "A321_0",
+          "argument": "AI should align with democratic principles, not limited to Western democracies but applicable to democracies worldwide.",
+          "comment_id": "321",
+          "x": 11.5409355,
+          "y": 4.6058254,
+          "p": 0.0
+        },
+        {
+          "arg_id": "A341_0",
+          "argument": "Public awareness, education, and participation regarding AI and the environment should be improved.",
+          "comment_id": "341",
+          "x": 11.966755,
+          "y": 3.1015568,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A340_0",
+          "argument": "The benefits and risks of AI should be fairly distributed and not concentrated in just a few groups.",
+          "comment_id": "340",
+          "x": 11.2555485,
+          "y": 3.3835669,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A331_0",
+          "argument": "AI development should encourage innovation and ensure its benefits are accessible to everyone, regardless of location or economic status.",
+          "comment_id": "331",
+          "x": 10.91876,
+          "y": 3.887504,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A328_0",
+          "argument": "AI should focus on solving societal challenges rather than solely being for profit.",
+          "comment_id": "328",
+          "x": 11.989884,
+          "y": 3.8472404,
+          "p": 0.0
+        },
+        {
+          "arg_id": "A326_0",
+          "argument": "While global AI standards have value, localized regulations that respect cultural and societal norms are crucial.",
+          "comment_id": "326",
+          "x": 12.382188,
+          "y": 4.634654,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A324_0",
+          "argument": "The governance of AI should include diverse stakeholders like civil society, academia, and industry.",
+          "comment_id": "324",
+          "x": 11.457433,
+          "y": 4.066901,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A323_0",
+          "argument": "We should educate the public about the capabilities of AI",
+          "comment_id": "323",
+          "x": 11.565628,
+          "y": 2.83221,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A295_0",
+          "argument": "Governments should expand access to data while protecting privacy to enable AI for good.",
+          "comment_id": "295",
+          "x": 10.850898,
+          "y": 2.72686,
+          "p": 0.0
+        }
+      ]
+    },
+    {
+      "cluster": "Cautious and Responsible Development",
+      "cluster_id": "2",
+      "takeaways": "<think>\nAlright, so I'm looking at this list of arguments about AI and its impact on the environment and society. First, I see that there's a strong emphasis on human oversight. People are saying that AI shouldn't be making critical environmental decisions on its own without humans being involved. That makes sense because AI, while powerful, doesn't have the same ethical judgment as humans. So, having humans in the loop seems crucial to ensure that decisions are responsible and ethical.\n\nNext, there's a call for caution in the development and deployment of AI applications. The participants are advocating for careful consideration rather than rushing to implement new technologies. This probably stems from concerns about unintended consequences that might arise if AI systems are rolled out too quickly without proper testing and evaluation.\n\nAnother point that stands out is the ethical responsibility of AI researchers and developers. They're being urged to think about the environmental impacts of their work. This suggests that the creation of AI shouldn't just focus on technical advancements but also on how these technologies affect the planet and society as a whole.\n\nThere's also a mention of comprehensive risk assessments that evaluate not just the environmental but also societal and ethical implications. This indicates a desire for a holistic approach to AI development, where all potential impacts are carefully considered before any technology is released.\n\nData privacy is another significant concern. The participants want strict regulations to prevent AI systems from misusing individuals' data. This is probably in response to increasing worries about how personal information is collected, stored, and used by AI technologies.\n\nEducation is highlighted as well. There's a push for public education about the limitations and ethical considerations of AI. This makes sense because as AI becomes more integrated into daily life, people need to understand what AI can and cannot do, as well as the ethical boundaries that should guide its use.\n\nFinally, there's a call for AI developers to be transparent by disclosing their methodologies and datasets. This transparency is likely seen as a way to ensure that AI systems are ethical and unbiased, which is essential for maintaining trust in these technologies.\n\nOverall, the main takeaway is that while AI has the potential to bring about transformative changes, it needs to be developed and deployed responsibly. This involves careful consideration of ethical, environmental, and societal impacts, ensuring human oversight, protecting data privacy, educating the public, and maintaining transparency in AI development processes.\n</think>\n\nThe participants emphasize the need for responsible AI development and deployment, highlighting the importance of human oversight in critical environmental decisions. They advocate for a cautious approach, prioritizing careful consideration over speed to avoid unintended consequences. Ethical responsibility is a key theme, with calls for comprehensive risk assessments that evaluate environmental, societal, and ethical implications. Data privacy regulations are also stressed to protect individuals from potential misuse by AI systems. Additionally, there is a push for public education about AI's limitations and ethical considerations, and for developers to disclose their methodologies and datasets to ensure transparency and unbiased systems. Overall, the focus is on ensuring that AI technologies are developed and implemented responsibly, with attention to ethical, environmental, and societal impacts.",
+      "arguments": [
+        {
+          "arg_id": "A339_0",
+          "argument": "AI should not make critical environmental decisions without human oversight.",
+          "comment_id": "339",
+          "x": 13.120519,
+          "y": 2.8639917,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A338_0",
+          "argument": "Caution and care should guide the development and deployment of transformative AI applications, not speed.",
+          "comment_id": "338",
+          "x": 12.608705,
+          "y": 3.032512,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A334_0",
+          "argument": "AI researchers and developers have an ethical responsibility to consider the environmental impacts of their work.",
+          "comment_id": "334",
+          "x": 13.6576605,
+          "y": 2.7685726,
+          "p": 0.0
+        },
+        {
+          "arg_id": "A330_0",
+          "argument": "AI technology should have a comprehensive risk assessment evaluating environmental, societal, and ethical implications.",
+          "comment_id": "330",
+          "x": 13.079102,
+          "y": 2.2749095,
+          "p": 0.0
+        },
+        {
+          "arg_id": "A329_0",
+          "argument": "Strict data privacy regulations should be in place to protect individuals from AI systems misusing their data.",
+          "comment_id": "329",
+          "x": 11.34059,
+          "y": 2.16004,
+          "p": 0.0
+        },
+        {
+          "arg_id": "A323_1",
+          "argument": "We should educate the public about the limitations and ethical considerations of AI",
+          "comment_id": "323",
+          "x": 11.923044,
+          "y": 2.4325345,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A322_0",
+          "argument": "AI developers should disclose their methodologies and datasets to ensure ethical and unbiased systems.",
+          "comment_id": "322",
+          "x": 12.351831,
+          "y": 2.0376318,
+          "p": 0.0
+        }
+      ]
+    },
+    {
+      "cluster": "Environmental Impact and Sustainability",
+      "cluster_id": "1",
+      "takeaways": "<think>\nOkay, so I've been given this list of statements about AI and its relationship with the environment and society. I need to summarize the main points. Let me read through them again to make sure I understand each one.\n\nThe first statement says that AI systems should prioritize justice, empowerment, and environmental stewardship over efficiency and profit. That makes sense because sometimes efficiency and profit can lead to negative environmental impacts, so focusing on more ethical goals might be better.\n\nNext, it mentions that AI governance frameworks should include environmental representatives and consider ecological impacts. I think this is about ensuring that when decisions about AI are made, environmental experts have a say to protect the planet.\n\nThen, it says AI should be used to help monitor, model, and reduce humanity's environmental footprint. AI can be a tool for tracking and mitigating the effects of human activity on the environment, which seems useful.\n\nThe fourth point is about conducting comprehensive life cycle assessments for AI systems to understand their environmental footprints. This means looking at every stage of an AI system's life, from development to disposal, to see how it affects the environment.\n\nIt also mentions that AI systems should be designed and deployed sustainably, considering their environmental impacts like energy use, materials, and waste. So, making AI systems more eco-friendly throughout their entire lifecycle.\n\nThe statement about AI technologies aiming to be as energy-efficient as possible to reduce their environmental impact is straightforward\u2014using less energy means less harm to the environment.\n\nAI development should follow a universally accepted ethical framework that prioritizes human well-being and environmental sustainability. This suggests that there should be global standards for AI that focus on doing good for people and the planet.\n\nGlobal cooperation on AI governance is crucial to manage environmental changes. If different countries work together on how AI is governed, they can better address environmental issues.\n\nAI deployment must respect nature and human dignity to realize sustainability benefits. This means that when AI is used, it should not harm the environment or people's rights, ensuring that sustainability is achieved ethically.\n\nLastly, it says that AI can drive optimization but may also lead to increased consumption. While AI can make things more efficient, it might also encourage more use of resources, which could be bad for the environment.\n\nOverall, these statements seem to advocate for a responsible and sustainable approach to AI, ensuring that it benefits both society and the environment without causing harm.\n</think>\n\nThe main points from the statements emphasize the need for AI systems to prioritize ethical considerations such as justice, empowerment, and environmental stewardship over traditional goals like efficiency and profit. They advocate for inclusive governance frameworks that incorporate environmental representatives to assess ecological impacts. The role of AI in monitoring and reducing humanity's environmental footprint is highlighted, along with the importance of conducting life cycle assessments to understand and mitigate the environmental effects of AI systems. The statements also stress the need for sustainable design and deployment of AI, focusing on energy efficiency and minimal environmental impact. Additionally, they call for a universally accepted ethical framework for AI development that prioritizes human well-being and environmental sustainability. Global cooperation in AI governance is deemed crucial to effectively manage environmental changes, ensuring that AI deployment respects both nature and human dignity. While AI can drive optimization, there is a cautionary note about its potential to increase consumption, underscoring the need for a balanced approach that promotes sustainability without causing harm.",
+      "arguments": [
+        {
+          "arg_id": "A337_0",
+          "argument": "AI systems should prioritize justice, empowerment, and environmental stewardship over efficiency and profit.",
+          "comment_id": "337",
+          "x": 12.694063,
+          "y": 4.2039204,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A336_0",
+          "argument": "AI governance frameworks should include environmental representatives and consider ecological impacts.",
+          "comment_id": "336",
+          "x": 13.45814,
+          "y": 3.5214176,
+          "p": 0.9954865607166472
+        },
+        {
+          "arg_id": "A335_0",
+          "argument": "AI should be leveraged to help monitor, model, and reduce humanity's environmental footprint.",
+          "comment_id": "335",
+          "x": 13.560769,
+          "y": 4.784026,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A333_0",
+          "argument": "Comprehensive life cycle assessments should be conducted for AI systems to understand their environmental footprints.",
+          "comment_id": "333",
+          "x": 13.953348,
+          "y": 3.7935507,
+          "p": 0.9954865607166472
+        },
+        {
+          "arg_id": "A332_0",
+          "argument": "AI systems should be designed and deployed sustainably, considering their environmental impacts, including energy use, materials, and waste.",
+          "comment_id": "332",
+          "x": 13.911677,
+          "y": 4.3185177,
+          "p": 0.9649220971599746
+        },
+        {
+          "arg_id": "A327_0",
+          "argument": "AI technologies should aim to be as energy-efficient as possible to reduce their environmental impact.",
+          "comment_id": "327",
+          "x": 14.095834,
+          "y": 4.9020867,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A325_0",
+          "argument": "AI development should follow a universally accepted ethical framework that prioritizes human well-being and environmental sustainability.",
+          "comment_id": "325",
+          "x": 12.759336,
+          "y": 5.0159945,
+          "p": 0.8373975566363222
+        },
+        {
+          "arg_id": "A320_0",
+          "argument": "Global cooperation on AI governance is crucial to manage environmental changes.",
+          "comment_id": "320",
+          "x": 13.223954,
+          "y": 4.5308647,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A319_0",
+          "argument": "AI deployment must respect nature and human dignity to realize sustainability benefits.",
+          "comment_id": "319",
+          "x": 13.220873,
+          "y": 4.0067325,
+          "p": 1.0
+        },
+        {
+          "arg_id": "A318_0",
+          "argument": "AI can drive optimization but may also lead to increased consumption.",
+          "comment_id": "318",
+          "x": 14.433759,
+          "y": 4.625521,
+          "p": 0.9287516004537536
+        },
+        {
+          "arg_id": "A318_1",
+          "argument": "Sustainable values should guide the design of AI technologies.",
+          "comment_id": "318",
+          "x": 12.69009,
+          "y": 3.7168558,
+          "p": 0.9300981198387946
+        }
+      ]
+    }
+  ],
+  "comments": {
+    "321": {
+      "comment": "AI should be in line with democratic principles, but it is not a Western democracy. It should be in line with democracies around the world.",
+      "agrees": 3.0,
+      "disagrees": 1.0,
+      "timestamp": 1695309375466
+    },
+    "341": {
+      "comment": "Public awareness, education, and participation around AI and the environment need to be improved.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372499305
+    },
+    "340": {
+      "comment": "The benefits and risks of AI systems should be equitably distributed, not concentrated among a few groups.",
+      "agrees": 5.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372492070
+    },
+    "339": {
+      "comment": "AI should not automate or control critical environmental decisions without human oversight.",
+      "agrees": 5.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372485179
+    },
+    "338": {
+      "comment": "Caution and care, not speed, should guide the development and deployment of transformative AI applications.",
+      "agrees": 6.0,
+      "disagrees": 1.0,
+      "timestamp": 1695372478352
+    },
+    "337": {
+      "comment": "AI systems should promote justice, empowerment, and environmental stewardship, not just efficiency and profit.",
+      "agrees": 7.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372471227
+    },
+    "336": {
+      "comment": "AI governance frameworks must include environmental representatives and consider ecological impacts.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372464905
+    },
+    "335": {
+      "comment": "AI should be leveraged to help monitor, model, and ultimately reduce humanity's environmental footprint.",
+      "agrees": 2.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372457949
+    },
+    "334": {
+      "comment": "AI researchers and developers have an ethical responsibility to consider the environmental impacts of their work.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372450389
+    },
+    "333": {
+      "comment": "Comprehensive life cycle assessments should be conducted for AI systems to understand their environmental footprints.",
+      "agrees": 4.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372442521
+    },
+    "332": {
+      "comment": "AI systems should be designed and deployed with sustainability in mind, considering environmental impacts like energy use, materials & waste",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372432239
+    },
+    "331": {
+      "comment": "AI development should encourage innovation & ensure the benefits are accessible to all, irrespective of geographic or economic barriers.",
+      "agrees": 5.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372401837
+    },
+    "330": {
+      "comment": "AI tech should have a comprehensive risk assessment evaluating not just the environmental impact but also societal & ethical implications.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372325440
+    },
+    "329": {
+      "comment": "Strict data privacy regulations should be in place to protect individuals from unauthorized data collection and usage by AI systems.",
+      "agrees": 4.0,
+      "disagrees": 1.0,
+      "timestamp": 1695372262913
+    },
+    "328": {
+      "comment": "AI should be developed and deployed with a focus on solving pressing societal challenges, rather than solely for profit.",
+      "agrees": 3.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372254912
+    },
+    "327": {
+      "comment": "AI technologies should strive to be as energy-efficient as possible to mitigate their environmental impact.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372243312
+    },
+    "326": {
+      "comment": "While global standards are ideal, it's crucial to have localized AI regulations that respect cultural and societal norms.",
+      "agrees": 3.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372232373
+    },
+    "325": {
+      "comment": "AI development should adhere to a universally accepted ethical framework that prioritizes human well-being and environmental sustainability.",
+      "agrees": 4.0,
+      "disagrees": 1.0,
+      "timestamp": 1695372221486
+    },
+    "324": {
+      "comment": "The governance of AI should involve a diverse set of stakeholders, including civil society, academia, and industry.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372206089
+    },
+    "323": {
+      "comment": "There should be a concerted effort to educate the public about the capabilities, limitations, and ethical considerations of AI.",
+      "agrees": 8.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372195948
+    },
+    "322": {
+      "comment": "All entities involved in AI development should disclose the methodologies and data sets they use, to ensure ethical and unbiased AI systems.",
+      "agrees": 4.0,
+      "disagrees": 0.0,
+      "timestamp": 1695372183900
+    },
+    "295": {
+      "comment": "Governments must expand access to data while protecting privacy to enable AI for good.",
+      "agrees": 6.0,
+      "disagrees": 1.0,
+      "timestamp": 1695275439989
+    },
+    "320": {
+      "comment": "Global cooperation on AI governance is crucial to manage environmental transformations ahead.",
+      "agrees": 7.0,
+      "disagrees": 0.0,
+      "timestamp": 1695277152694
+    },
+    "319": {
+      "comment": "To realize sustainability benefits, AI deployment must respect nature and human dignity.",
+      "agrees": 6.0,
+      "disagrees": 0.0,
+      "timestamp": 1695277143239
+    },
+    "318": {
+      "comment": "AI can drive optimization but also increased consumption - sustainable values should guide its design.",
+      "agrees": 4.0,
+      "disagrees": 0.0,
+      "timestamp": 1695277126063
+    }
+  },
+  "translations": {
+    "AI should align with democratic principles, not limited to Western democracies but applicable to democracies worldwide.": [
+      "\u4eba\u5de5\u667a\u80fd\u5e94\u4e0e\u6c11\u4e3b\u539f\u5219\u4fdd\u6301\u4e00\u81f4\uff0c\u4e0d\u5e94\u4ec5\u9650\u4e8e\u897f\u65b9\u6c11\u4e3b\u56fd\u5bb6\uff0c\u800c\u5e94\u9002\u7528\u4e8e\u5168\u7403\u5404\u5730\u7684\u6c11\u4e3b\u56fd\u5bb6\u3002",
+      "AI\u306f\u3001\u897f\u6d0b\u6c11\u4e3b\u4e3b\u7fa9\u3060\u3051\u3067\u306a\u304f\u3001\u4e16\u754c\u4e2d\u306e\u6c11\u4e3b\u4e3b\u7fa9\u306b\u9069\u7528\u3055\u308c\u308b\u6c11\u4e3b\u4e3b\u7fa9\u7684\u539f\u5247\u306b\u6cbf\u3063\u305f\u884c\u52d5\u3092\u53d6\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "Public awareness, education, and participation regarding AI and the environment should be improved.": [
+      "\u516c\u4f17\u5bf9\u4eba\u5de5\u667a\u80fd\u548c\u73af\u5883\u7684\u610f\u8bc6\u3001\u6559\u80b2\u548c\u53c2\u4e0e\u5ea6\u5e94\u5f97\u5230\u52a0\u5f3a\u3002",
+      "AI\u3068\u74b0\u5883\u306b\u95a2\u3059\u308b\u793e\u4f1a\u7684\u8a8d\u8b58\u3001\u6559\u80b2\u3001\u53c2\u52a0\u5ea6\u3092\u5411\u4e0a\u3055\u305b\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "The benefits and risks of AI should be fairly distributed and not concentrated in just a few groups.": [
+      "\u4eba\u5de5\u667a\u80fd\u7684\u5229\u76ca\u548c\u98ce\u9669\u5e94\u516c\u5e73\u5206\u914d\uff0c\u4e0d\u5e94\u96c6\u4e2d\u5728\u5c11\u6570\u7fa4\u4f53\u624b\u4e2d\u3002",
+      "AI\u306e\u5229\u76ca\u3068\u30ea\u30b9\u30af\u306f\u3001\u5c11\u6570\u306e\u30b0\u30eb\u30fc\u30d7\u306b\u96c6\u4e2d\u3059\u3079\u304d\u3067\u306f\u306a\u304f\u3001\u516c\u5e73\u306b\u5206\u914d\u3055\u308c\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI should not make critical environmental decisions without human oversight.": [
+      "\u4eba\u5de5\u667a\u80fd\u4e0d\u5e94\u5728\u6ca1\u6709\u4eba\u7c7b\u76d1\u7763\u7684\u60c5\u51b5\u4e0b\u505a\u51fa\u5173\u952e\u73af\u5883\u51b3\u7b56\u3002",
+      "AI\u306f\u3001\u4eba\u9593\u306e\u76e3\u7763\u306a\u3057\u306b\u91cd\u8981\u306a\u74b0\u5883\u6c7a\u5b9a\u3092\u4e0b\u3059\u3079\u304d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
+    ],
+    "Caution and care should guide the development and deployment of transformative AI applications, not speed.": [
+      "\u5728\u5f00\u53d1\u548c\u90e8\u7f72\u5177\u6709\u53d8\u9769\u6027\u7684\u4eba\u5de5\u667a\u80fd\u5e94\u7528\u65f6\uff0c\u5e94\u4ee5\u8c28\u614e\u548c\u8c28\u614e\u4e3a\u6307\u5bfc\uff0c\u800c\u975e\u901f\u5ea6\u3002",
+      "\u9769\u547d\u7684\u306aAI\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u958b\u767a\u3068\u5c55\u958b\u306f\u3001\u901f\u3055\u3067\u306f\u306a\u304f\u3001\u6ce8\u610f\u3068\u614e\u91cd\u3055\u304c\u5c0e\u304d\u624b\u3068\u306a\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI systems should prioritize justice, empowerment, and environmental stewardship over efficiency and profit.": [
+      "\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u5e94\u5c06\u516c\u6b63\u3001\u8d4b\u6743\u548c\u73af\u5883\u7ba1\u7406\u7f6e\u4e8e\u6548\u7387\u548c\u5229\u6da6\u4e4b\u4e0a\u3002",
+      "AI\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u52b9\u7387\u3068\u5229\u76ca\u3088\u308a\u3082\u6b63\u7fa9\u3001\u30a8\u30f3\u30d1\u30ef\u30fc\u30e1\u30f3\u30c8\u3001\u74b0\u5883\u306e\u4fdd\u8b77\u3092\u512a\u5148\u3059\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI governance frameworks should include environmental representatives and consider ecological impacts.": [
+      "\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\u6846\u67b6\u5e94\u5305\u62ec\u73af\u5883\u4ee3\u8868\uff0c\u5e76\u8003\u8651\u751f\u6001\u5f71\u54cd\u3002",
+      "AI\u306e\u6cbb\u7406\u67a0\u7d44\u307f\u306b\u306f\u3001\u74b0\u5883\u3092\u4ee3\u8868\u3059\u308b\u8005\u3092\u542b\u3081\u3001\u751f\u614b\u5b66\u7684\u5f71\u97ff\u3092\u8003\u616e\u5165\u308c\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI should be leveraged to help monitor, model, and reduce humanity's environmental footprint.": [
+      "\u4eba\u5de5\u667a\u80fd\u5e94\u88ab\u5229\u7528\u6765\u5e2e\u52a9\u76d1\u6d4b\u3001\u5efa\u6a21\u548c\u51cf\u5c11\u4eba\u7c7b\u7684\u73af\u5883\u8db3\u8ff9\u3002",
+      "AI\u306f\u3001\u4eba\u9593\u306e\u74b0\u5883\u3078\u306e\u8db3\u8de1\u3092\u76e3\u8996\u3001\u30e2\u30c7\u30eb\u5316\u3001\u524a\u6e1b\u3059\u308b\u306e\u3092\u52a9\u3051\u308b\u305f\u3081\u306b\u6d3b\u7528\u3055\u308c\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI researchers and developers have an ethical responsibility to consider the environmental impacts of their work.": [
+      "\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u4eba\u5458\u548c\u5f00\u53d1\u4eba\u5458\u6709\u4f26\u7406\u8d23\u4efb\u8003\u8651\u4ed6\u4eec\u5de5\u4f5c\u7684\u73af\u5883\u5f71\u54cd\u3002",
+      "AI\u306e\u7814\u7a76\u8005\u3068\u958b\u767a\u8005\u306f\u3001\u81ea\u5206\u306e\u4ed5\u4e8b\u306e\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3092\u8003\u616e\u3059\u308b\u502b\u7406\u7684\u8cac\u4efb\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002"
+    ],
+    "Comprehensive life cycle assessments should be conducted for AI systems to understand their environmental footprints.": [
+      "\u5e94\u5bf9\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u8fdb\u884c\u5168\u9762\u751f\u547d\u5468\u671f\u8bc4\u4f30\uff0c\u4ee5\u4e86\u89e3\u5176\u73af\u5883\u8db3\u8ff9\u3002",
+      "AI\u30b7\u30b9\u30c6\u30e0\u306b\u5bfe\u3057\u3066\u306f\u3001\u74b0\u5883\u3078\u306e\u8db3\u8de1\u3092\u7406\u89e3\u3059\u308b\u305f\u3081\u306b\u3001\u5168\u9762\u7684\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u8a55\u4fa1\u3092\u884c\u3046\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI systems should be designed and deployed sustainably, considering their environmental impacts, including energy use, materials, and waste.": [
+      "\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u7684\u8bbe\u8ba1\u548c\u90e8\u7f72\u5e94\u5177\u6709\u53ef\u6301\u7eed\u6027\uff0c\u8003\u8651\u5230\u5176\u5bf9\u73af\u5883\u7684\u5f71\u54cd\uff0c\u5305\u62ec\u80fd\u6e90\u4f7f\u7528\u3001\u6750\u6599\u548c\u5e9f\u5f03\u7269\u3002",
+      "AI\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u30a8\u30cd\u30eb\u30ae\u30fc\u4f7f\u7528\u3001\u6750\u6599\u3001\u5ec3\u68c4\u7269\u306a\u3069\u3001\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3092\u8003\u616e\u3057\u3066\u3001\u6301\u7d9a\u53ef\u80fd\u306a\u65b9\u6cd5\u3067\u8a2d\u8a08\u3055\u308c\u3001\u5c55\u958b\u3055\u308c\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI development should encourage innovation and ensure its benefits are accessible to everyone, regardless of location or economic status.": [
+      "\u4eba\u5de5\u667a\u80fd\u7684\u53d1\u5c55\u5e94\u9f13\u52b1\u521b\u65b0\uff0c\u5e76\u786e\u4fdd\u5176\u76ca\u5904\u5bf9\u6240\u6709\u4eba\u5f00\u653e\uff0c\u65e0\u8bba\u5176\u6240\u5728\u5730\u6216\u7ecf\u6d4e\u72b6\u51b5\u3002",
+      "AI\u306e\u958b\u767a\u306f\u3001\u30a4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3\u3092\u4fc3\u9032\u3057\u3001\u305d\u306e\u5229\u76ca\u304c\u5834\u6240\u3084\u7d4c\u6e08\u7684\u5730\u4f4d\u306b\u95a2\u4fc2\u306a\u304f\u3001\u3059\u3079\u3066\u306e\u4eba\u306b\u30a2\u30af\u30bb\u30b9\u53ef\u80fd\u3067\u3042\u308b\u3053\u3068\u3092\u4fdd\u8a3c\u3059\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI technology should have a comprehensive risk assessment evaluating environmental, societal, and ethical implications.": [
+      "\u4eba\u5de5\u667a\u80fd\u6280\u672f\u5e94\u8fdb\u884c\u5168\u9762\u7684\u98ce\u9669\u8bc4\u4f30\uff0c\u8bc4\u4f30\u5176\u73af\u5883\u3001\u793e\u4f1a\u548c\u9053\u5fb7\u5f71\u54cd\u3002",
+      "AI\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306b\u306f\u3001\u74b0\u5883\u3001\u793e\u4f1a\u3001\u502b\u7406\u7684\u306a\u5f71\u97ff\u3092\u8a55\u4fa1\u3059\u308b\u305f\u3081\u306e\u5305\u62ec\u7684\u306a\u30ea\u30b9\u30af\u30a2\u30bb\u30b9\u30e1\u30f3\u30c8\u304c\u5fc5\u8981\u3067\u3059\u3002"
+    ],
+    "Strict data privacy regulations should be in place to protect individuals from AI systems misusing their data.": [
+      "\u5e94\u5236\u5b9a\u4e25\u683c\u7684\u6570\u636e\u9690\u79c1\u6cd5\u89c4\uff0c\u4ee5\u4fdd\u62a4\u4e2a\u4eba\u514d\u53d7\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u6ee5\u7528\u5176\u6570\u636e\u3002",
+      "\u500b\u4eba\u30c7\u30fc\u30bf\u304cAI\u30b7\u30b9\u30c6\u30e0\u306b\u3088\u3063\u3066\u60aa\u7528\u3055\u308c\u308b\u306e\u3092\u9632\u3050\u305f\u3081\u306b\u3001\u53b3\u683c\u306a\u30c7\u30fc\u30bf\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u5236\u3092\u8a2d\u3051\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI should focus on solving societal challenges rather than solely being for profit.": [
+      "\u4eba\u5de5\u667a\u80fd\u5e94\u4e13\u6ce8\u4e8e\u89e3\u51b3\u793e\u4f1a\u6311\u6218\uff0c\u800c\u4e0d\u4ec5\u4ec5\u662f\u4e3a\u4e86\u5229\u6da6\u3002",
+      "AI\u306f\u3001\u5229\u76ca\u306e\u307f\u3067\u306f\u306a\u304f\u3001\u793e\u4f1a\u7684\u306a\u8ab2\u984c\u306e\u89e3\u6c7a\u306b\u7126\u70b9\u3092\u5f53\u3066\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "AI technologies should aim to be as energy-efficient as possible to reduce their environmental impact.": [
+      "\u4eba\u5de5\u667a\u80fd\u6280\u672f\u5e94\u5c3d\u53ef\u80fd\u8282\u80fd\uff0c\u4ee5\u51cf\u5c11\u5176\u5bf9\u73af\u5883\u7684\u5f71\u54cd\u3002",
+      "AI\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306f\u3001\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3092\u6e1b\u5c11\u3055\u305b\u308b\u305f\u3081\u3001\u53ef\u80fd\u306a\u9650\u308a\u30a8\u30cd\u30eb\u30ae\u30fc\u52b9\u7387\u6027\u3092\u5411\u4e0a\u3055\u305b\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "While global AI standards have value, localized regulations that respect cultural and societal norms are crucial.": [
+      "\u867d\u7136\u5168\u7403\u4eba\u5de5\u667a\u80fd\u6807\u51c6\u6709\u5176\u4ef7\u503c\uff0c\u4f46\u5c0a\u91cd\u6587\u5316\u548c\u793e\u4f1a\u89c4\u8303\u7684\u672c\u5730\u6cd5\u89c4\u81f3\u5173\u91cd\u8981\u3002",
+      "\u30b0\u30ed\u30fc\u30d0\u30eb\u306aAI\u898f\u683c\u306f\u4fa1\u5024\u304c\u3042\u308a\u307e\u3059\u304c\u3001\u6587\u5316\u3084\u793e\u4f1a\u306e\u898f\u7bc4\u3092\u5c0a\u91cd\u3059\u308b\u30ed\u30fc\u30ab\u30e9\u30a4\u30ba\u3055\u308c\u305f\u898f\u5236\u306f\u3001\u975e\u5e38\u306b\u91cd\u8981\u3067\u3059\u3002"
+    ],
+    "AI development should follow a universally accepted ethical framework that prioritizes human well-being and environmental sustainability.": [
+      "\u4eba\u5de5\u667a\u80fd\u7684\u53d1\u5c55\u5e94\u9075\u5faa\u4e00\u4e2a\u666e\u904d\u63a5\u53d7\u7684\u9053\u5fb7\u6846\u67b6\uff0c\u4f18\u5148\u8003\u8651\u4eba\u7c7b\u798f\u7949\u548c\u73af\u5883\u53ef\u6301\u7eed\u6027\u3002",
+      "AI\u306e\u958b\u767a\u306f\u3001\u4eba\u9593\u306e\u5e78\u798f\u3068\u74b0\u5883\u306e\u6301\u7d9a\u53ef\u80fd\u6027\u3092\u512a\u5148\u3059\u308b\u3001\u666e\u904d\u7684\u306b\u53d7\u3051\u5165\u308c\u3089\u308c\u305f\u502b\u7406\u7684\u67a0\u7d44\u307f\u306b\u5f93\u3046\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "The governance of AI should include diverse stakeholders like civil society, academia, and industry.": [
+      "\u4eba\u5de5\u667a\u80fd\u7684\u6cbb\u7406\u5e94\u5305\u62ec\u591a\u65b9\u5229\u76ca\u76f8\u5173\u8005\uff0c\u5982\u6c11\u95f4\u793e\u4f1a\u3001\u5b66\u672f\u754c\u548c\u884c\u4e1a\u3002",
+      "AI\u306e\u6cbb\u7406\u306b\u306f\u3001\u5e02\u6c11\u793e\u4f1a\u3001\u5b66\u754c\u3001\u7523\u696d\u306a\u3069\u3001\u591a\u69d8\u306a\u5229\u5bb3\u95a2\u4fc2\u8005\u3092\u542b\u3081\u308b\u3079\u304d\u3067\u3059\u3002"
+    ],
+    "We should educate the public about the capabilities of AI": [
+      "\u6211\u4eec\u5e94\u5411\u516c\u4f17\u6559\u80b2\u4eba\u5de5\u667a\u80fd\u7684\u80fd\u529b",
+      "AI\u306e\u80fd\u529b\u306b\u3064\u3044\u3066\u4e00\u822c\u306b\u6559\u80b2\u3059\u308b\u3079\u304d\u3067\u3059"
+    ],
+    "We should educate the public about the limitations and ethical considerations of AI": [
+      "\u6211\u4eec\u5e94\u8be5\u5411\u516c\u4f17\u666e\u53ca\u4eba\u5de5\u667a\u80fd\u7684\u5c40\u9650\u6027\u548c\u4f26\u7406\u8003\u91cf",
+      "AI\u306e\u9650\u754c\u3068\u502b\u7406\u7684\u8003\u616e\u4e8b\u9805\u306b\u3064\u3044\u3066\u4e00\u822c\u306b\u6559\u80b2\u3059\u308b\u3079\u304d\u3067\u3042\u308b"
+    ],
+    "AI developers should disclose their methodologies and datasets to ensure ethical and unbiased systems.": [
+      "\u4eba\u5de5\u667a\u80fd\u5f00\u53d1\u8005\u5e94\u62ab\u9732\u5176\u65b9\u6cd5\u548c\u6570\u636e\u96c6\uff0c\u4ee5\u786e\u4fdd\u7cfb\u7edf\u7684\u4f26\u7406\u548c\u516c\u6b63",
+      "AI\u958b\u767a\u8005\u306f\u3001\u502b\u7406\u7684\u3067\u504f\u898b\u306e\u306a\u3044\u30b7\u30b9\u30c6\u30e0\u3092\u4fdd\u8a3c\u3059\u308b\u305f\u3081\u306b\u3001\u305d\u306e\u65b9\u6cd5\u3068\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u3092\u958b\u793a\u3059\u308b\u3079\u304d\u3067\u3042\u308b"
+    ],
+    "Governments should expand access to data while protecting privacy to enable AI for good.": [
+      "\u653f\u5e9c\u5e94\u5728\u4fdd\u62a4\u9690\u79c1\u7684\u540c\u65f6\u6269\u5927\u6570\u636e\u83b7\u53d6\uff0c\u4ee5\u5b9e\u73b0\u4eba\u5de5\u667a\u80fd\u9020\u798f\u4eba\u7c7b",
+      "\u653f\u5e9c\u306f\u3001\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3092\u4fdd\u8b77\u3057\u306a\u304c\u3089\u30c7\u30fc\u30bf\u3078\u306e\u30a2\u30af\u30bb\u30b9\u3092\u62e1\u5927\u3057\u3066\u3001AI\u3092\u5584\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u3079\u304d\u3067\u3042\u308b"
+    ],
+    "Global cooperation on AI governance is crucial to manage environmental changes.": [
+      "\u5168\u7403\u5408\u4f5c\u5728\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\u4e2d\u81f3\u5173\u91cd\u8981\uff0c\u4ee5\u5e94\u5bf9\u73af\u5883\u53d8\u5316",
+      "\u74b0\u5883\u306e\u5909\u5316\u3092\u7ba1\u7406\u3059\u308b\u305f\u3081\u306b\u3001AI\u306e\u30ac\u30d0\u30ca\u30f3\u30b9\u306b\u95a2\u3059\u308b\u30b0\u30ed\u30fc\u30d0\u30eb\u306a\u5354\u529b\u306f\u4e0d\u53ef\u6b20\u3067\u3042\u308b"
+    ],
+    "AI deployment must respect nature and human dignity to realize sustainability benefits.": [
+      "\u4eba\u5de5\u667a\u80fd\u7684\u90e8\u7f72\u5fc5\u987b\u5c0a\u91cd\u81ea\u7136\u548c\u4eba\u7c7b\u5c0a\u4e25\uff0c\u4ee5\u5b9e\u73b0\u53ef\u6301\u7eed\u53d1\u5c55\u7684\u597d\u5904",
+      "\u6301\u7d9a\u53ef\u80fd\u306a\u5229\u76ca\u3092\u5b9f\u73fe\u3059\u308b\u305f\u3081\u306b\u3001AI\u306e\u5c55\u958b\u306f\u81ea\u7136\u3068\u4eba\u9593\u306e\u5c0a\u53b3\u3092\u5c0a\u91cd\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b"
+    ],
+    "AI can drive optimization but may also lead to increased consumption.": [
+      "\u4eba\u5de5\u667a\u80fd\u53ef\u4ee5\u63a8\u52a8\u4f18\u5316\uff0c\u4f46\u4e5f\u53ef\u80fd\u5bfc\u81f4\u6d88\u8d39\u7684\u589e\u52a0",
+      "AI\u306f\u6700\u9069\u5316\u3092\u63a8\u9032\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u304c\u3001\u6d88\u8cbb\u306e\u5897\u52a0\u306b\u3082\u3064\u306a\u304c\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b"
+    ],
+    "Sustainable values should guide the design of AI technologies.": [
+      "\u53ef\u6301\u7eed\u7684\u4ef7\u503c\u89c2\u5e94\u6307\u5bfc\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7684\u8bbe\u8ba1",
+      "\u6301\u7d9a\u53ef\u80fd\u306a\u4fa1\u5024\u89b3\u304cAI\u6280\u8853\u306e\u8a2d\u8a08\u3092\u5c0e\u304f\u3079\u304d\u3067\u3042\u308b"
+    ],
+    "Equitable Development and Deployment": [
+      "\u516c\u5e73\u7684\u5f00\u53d1\u548c\u90e8\u7f72",
+      "\u516c\u5e73\u306a\u958b\u767a\u3068\u5c55\u958b"
+    ],
+    "Cautious and Responsible Development": [
+      "\u8c28\u614e\u548c\u8d1f\u8d23\u4efb\u7684\u5f00\u53d1",
+      "\u614e\u91cd\u3067\u8cac\u4efb\u3042\u308b\u958b\u767a"
+    ],
+    "Environmental Impact and Sustainability": [
+      "\u73af\u5883\u5f71\u54cd\u548c\u53ef\u6301\u7eed\u6027",
+      "\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3068\u6301\u7d9a\u53ef\u80fd\u6027"
+    ],
+    "Argument": [
+      "\u8bba\u70b9",
+      "\u8ad6\u70b9"
+    ],
+    "Original comment": [
+      "\u539f\u59cb\u8bc4\u8bba",
+      "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b3\u30e1\u30f3\u30c8"
+    ],
+    "Representative arguments": [
+      "\u4ee3\u8868\u6027\u8bba\u70b9",
+      "\u4ee3\u8868\u7684\u306a\u8b70\u8ad6"
+    ],
+    "Open full-screen map": [
+      "\u6253\u5f00\u5168\u5c4f\u5730\u56fe",
+      "\u5168\u753b\u9762\u5730\u56f3\u3092\u958b\u304f"
+    ],
+    "Back to report": [
+      "\u8fd4\u56de\u62a5\u544a",
+      "\u5831\u544a\u306b\u623b\u308b"
+    ],
+    "Hide labels": [
+      "\u9690\u85cf\u6807\u7b7e",
+      "\u30e9\u30d9\u30eb\u3092\u975e\u8868\u793a\u306b\u3059\u308b"
+    ],
+    "Show labels": [
+      "\u663e\u793a\u6807\u7b7e",
+      "\u30e9\u30d9\u30eb\u3092\u8868\u793a\u3059\u308b"
+    ],
+    "Show filters": [
+      "\u663e\u793a\u8fc7\u6ee4\u5668",
+      "\u30d5\u30a3\u30eb\u30bf\u30fc\u3092\u8868\u793a\u3059\u308b"
+    ],
+    "Hide filters": [
+      "\u9690\u85cf\u8fc7\u6ee4\u5668",
+      "\u30d5\u30a3\u30eb\u30bf\u30fc\u3092\u975e\u8868\u793a\u306b\u3059\u308b"
+    ],
+    "Min. votes": [
+      "\u6700\u5c11\u7968\u6570",
+      "\u6700\u5c0f\u6295\u7968\u6570"
+    ],
+    "Consensus": [
+      "\u5171\u8bc6",
+      "\u30b3\u30f3\u30bb\u30f3\u30b5\u30b9"
+    ],
+    "Showing": [
+      "\u663e\u793a",
+      "\u8868\u793a\u4e2d"
+    ],
+    "arguments": [
+      "\u8bba\u70b9",
+      "\u8ad6\u70b9"
+    ],
+    "Reset zoom": [
+      "\u91cd\u7f6e\u7f29\u653e",
+      "\u30ba\u30fc\u30e0\u30ea\u30bb\u30c3\u30c8"
+    ],
+    "Click anywhere on the map to close this": [
+      "\u70b9\u51fb\u5730\u56fe\u4e0a\u7684\u4efb\u610f\u4f4d\u7f6e\u4ee5\u5173\u95ed\u6b64\u5185\u5bb9",
+      "\u5730\u56f3\u4e0a\u306e\u4efb\u610f\u306e\u5834\u6240\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u3053\u306e\u30a6\u30a3\u30f3\u30c9\u30a6\u3092\u9589\u3058\u307e\u3059"
+    ],
+    "Click on the dot for details": [
+      "\u70b9\u51fb\u5706\u70b9\u4ee5\u67e5\u770b\u8be6\u7ec6\u4fe1\u606f",
+      "\u30c9\u30c3\u30c8\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u8a73\u7d30\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044"
+    ],
+    "agree": [
+      "\u540c\u610f",
+      "\u8cdb\u6210"
+    ],
+    "disagree": [
+      "\u4e0d\u540c\u610f",
+      "\u53cd\u5bfe"
+    ],
+    "Language": [
+      "\u8bed\u8a00",
+      "\u8a00\u8a9e"
+    ],
+    "English": [
+      "\u82f1\u8bed",
+      "\u82f1\u8a9e"
+    ],
+    "of total": [
+      "\u603b\u8ba1",
+      "\u5168\u4f53\u306e"
+    ],
+    "Overview": [
+      "\u6982\u8ff0",
+      "\u6982\u8981"
+    ],
+    "Cluster analysis": [
+      "\u805a\u7c7b\u5206\u6790",
+      "\u30af\u30e9\u30b9\u30bf\u30fc\u5206\u6790"
+    ],
+    "Representative comments": [
+      "\u4ee3\u8868\u6027\u8bc4\u8bba",
+      "\u4ee3\u8868\u7684\u306a\u30b3\u30e1\u30f3\u30c8"
+    ],
+    "Introduction": [
+      "\u5f15\u8a00",
+      "\u306f\u3058\u3081\u306b"
+    ],
+    "Clusters": [
+      "\u7fa4\u7ec4",
+      "\u30af\u30e9\u30b9\u30bf\u30fc"
+    ],
+    "Appendix": [
+      "\u9644\u5f55",
+      "\u4ed8\u9332"
+    ],
+    "This report was generated using an AI pipeline that consists of the following steps": [
+      "\u672c\u62a5\u544a\u662f\u901a\u8fc7\u4ee5\u4e0b\u6b65\u9aa4\u7ec4\u6210\u7684\u4eba\u5de5\u667a\u80fd\u7ba1\u9053\u751f\u6210\u7684",
+      "\u3053\u306e\u30ec\u30dd\u30fc\u30c8\u306f\u3001\u4ee5\u4e0b\u306e\u624b\u9806\u3067\u69cb\u6210\u3055\u308c\u308bAI\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\u3092\u4f7f\u7528\u3057\u3066\u751f\u6210\u3055\u308c\u307e\u3057\u305f"
+    ],
+    "Step": [
+      "\u6b65\u9aa4",
+      "\u30b9\u30c6\u30c3\u30d7"
+    ],
+    "extraction": [
+      "\u63d0\u53d6",
+      "\u62bd\u51fa"
+    ],
+    "show code": [
+      "\u663e\u793a\u4ee3\u7801",
+      "\u30b3\u30fc\u30c9\u3092\u8868\u793a"
+    ],
+    "hide code": [
+      "\u9690\u85cf\u4ee3\u7801",
+      "\u30b3\u30fc\u30c9\u3092\u975e\u8868\u793a"
+    ],
+    "show prompt": [
+      "\u663e\u793a\u63d0\u793a",
+      "\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u8868\u793a"
+    ],
+    "hide prompt": [
+      "\u9690\u85cf\u63d0\u793a",
+      "\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u975e\u8868\u793a"
+    ],
+    "embedding": [
+      "\u5d4c\u5165",
+      "\u57cb\u3081\u8fbc\u307f"
+    ],
+    "clustering": [
+      "\u805a\u7c7b",
+      "\u30af\u30e9\u30b9\u30bf\u30ea\u30f3\u30b0"
+    ],
+    "labelling": [
+      "\u6807\u6ce8",
+      "\u30e9\u30d9\u30eb\u4ed8\u3051"
+    ],
+    "takeaways": [
+      "\u8981\u70b9",
+      "\u8981\u7d04"
+    ],
+    "overview": [
+      "\u6982\u89c8",
+      "\u6982\u8981"
+    ],
+    "Mandarin": [
+      "\u666e\u901a\u8bdd",
+      "\u30de\u30f3\u30c0\u30ea\u30f3"
+    ],
+    "Japanese": [
+      "\u65e5\u8bed",
+      "\u65e5\u672c\u8a9e"
+    ],
+    "Recursive Public, Agenda Setting": [
+      "\u9012\u5f52\u516c\u5171\uff0c\u8bae\u7a0b\u8bbe\u7f6e",
+      "\u518d\u5e30\u7684\u516c\u5171\u3001\u30a2\u30b8\u30a7\u30f3\u30c0\u8a2d\u5b9a"
+    ],
+    "What should be top of the agenda as humanity develops and deploys artificial intelligence?": [
+      "\u5728\u4eba\u7c7b\u53d1\u5c55\u548c\u90e8\u7f72\u4eba\u5de5\u667a\u80fd\u65f6\uff0c\u4ec0\u4e48\u5e94\u8be5\u662f\u8bae\u7a0b\u7684\u9996\u8981\u5185\u5bb9\uff1f",
+      "\u4eba\u985e\u304cAI\u3092\u958b\u767a\u3057\u3066\u6d3b\u7528\u3059\u308b\u969b\u306b\u3001\u6700\u91cd\u8981\u9805\u76ee\u4f55\u304c\u3079\u304d\u304b"
+    ],
+    "<think>\nAlright, so I need to figure out how to summarize these points about AI governance and its alignment with democratic principles. Let me start by reading through each of the points to understand what they're saying.\n\nFirst, the user mentions that AI should align with democratic principles, not just Western democracies but applicable worldwide. That means AI shouldn't just follow the political systems of Western countries but should be adaptable to different democratic frameworks globally.\n\nNext, there's an emphasis on public awareness, education, and participation regarding AI and the environment. So, people need to be informed about AI and its impact on the environment, and they should be involved in discussions or decisions related to AI.\n\nThe benefits and risks of AI should be fairly distributed and not concentrated in just a few groups. This suggests that AI development should aim for equity, ensuring that all groups can benefit and that no single group bears the majority of the risks.\n\nAI development should encourage innovation and ensure its benefits are accessible to everyone, regardless of location or economic status. This ties into the idea of equity but also highlights the importance of accessibility and inclusivity in AI development.\n\nAI should focus on solving societal challenges rather than solely being for profit. This means that the primary goal of AI should be to address significant issues in society, not just to generate profit for companies or individuals.\n\nWhile global AI standards have value, localized regulations that respect cultural and societal norms are crucial. This indicates that while having overarching standards is important, each region should have the flexibility to create regulations that fit their specific cultural and societal contexts.\n\nThe governance of AI should include diverse stakeholders like civil society, academia, and industry. This emphasizes the importance of a collaborative approach, involving various sectors to ensure well-rounded and representative decision-making.\n\nWe should educate the public about the capabilities of AI. This reinforces the earlier point about public awareness and education, highlighting the need to inform people about what AI can and cannot do.\n\nFinally, governments should expand access to data while protecting privacy to enable AI for good. This suggests that data accessibility is crucial for AI development, but it must be balanced with strong privacy protections to ensure ethical use.\n\nNow, to summarize these points concisely, I should identify the main themes and ensure that each is represented clearly and succinctly. The key themes are:\n\n1. Alignment of AI with democratic principles globally.\n2. Importance of public awareness, education, and participation.\n3. Fair distribution of AI benefits and risks.\n4. Focus on societal challenges over profit.\n5. Need for localized regulations alongside global standards.\n6. Inclusive governance involving diverse stakeholders.\n7. Public education on AI capabilities.\n8. Balancing data access with privacy protections.\n\nI should make sure the summary captures all these elements without being too wordy. It should be clear and to the point, highlighting the essential aspects discussed in the points.\n</think>\n\nParticipants emphasized that AI should align with democratic principles worldwide, ensuring equitable distribution of benefits and risks. They stressed the importance of public awareness, education, and participation, particularly regarding AI's environmental impact. AI should prioritize solving societal challenges over profit and be governed inclusively by diverse stakeholders. While global standards are valuable, localized regulations respecting cultural norms are crucial. Additionally, educating the public about AI's capabilities and balancing data access with privacy protections are key to fostering ethical AI development.": [
+      "\u53c2\u4e0e\u8005\u4eec\u5f3a\u8c03\uff0c\u4eba\u5de5\u667a\u80fd\u5e94\u8be5\u4e0e\u5168\u7403\u7684\u6c11\u4e3b\u539f\u5219\u4fdd\u6301\u4e00\u81f4\uff0c\u786e\u4fdd\u5176\u5e26\u6765\u7684\u76ca\u5904\u548c\u98ce\u9669\u5f97\u5230\u516c\u5e73\u5206\u914d\u3002\u4ed6\u4eec\u7279\u522b\u6307\u51fa\uff0c\u516c\u4f17\u5bf9\u4eba\u5de5\u667a\u80fd\u53ca\u5176\u5bf9\u73af\u5883\u5f71\u54cd\u7684\u8ba4\u8bc6\u3001\u6559\u80b2\u548c\u53c2\u4e0e\u81f3\u5173\u91cd\u8981\u3002\u4eba\u5de5\u667a\u80fd\u5e94\u8be5\u5c06\u89e3\u51b3\u793e\u4f1a\u6311\u6218\u7f6e\u4e8e\u5229\u6da6\u4e4b\u4e0a\uff0c\u5e76\u5728\u6cbb\u7406\u4e0a\u6d89\u53ca\u591a\u5143\u5316\u7684\u5229\u76ca\u76f8\u5173\u8005\u3002\u5c3d\u7ba1\u5168\u7403\u6807\u51c6\u5177\u6709\u4ef7\u503c\uff0c\u4f46\u5c0a\u91cd\u6587\u5316\u548c\u793e\u4f1a\u89c4\u8303\u7684\u672c\u5730\u6cd5\u89c4\u540c\u6837\u91cd\u8981\u3002\u6b64\u5916\uff0c\u5411\u516c\u4f17\u666e\u53ca\u4eba\u5de5\u667a\u80fd\u7684\u80fd\u529b\uff0c\u5e76\u5728\u6570\u636e\u8bbf\u95ee\u4e0e\u9690\u79c1\u4fdd\u62a4\u4e4b\u95f4\u627e\u5230\u5e73\u8861\uff0c\u662f\u63a8\u52a8\u4eba\u5de5\u667a\u80fd\u4f26\u7406\u53d1\u5c55\u7684\u5173\u952e\u3002",
+      "\u53c2\u52a0\u8005\u306f\u3001AI\u304c\u4e16\u754c\u4e2d\u306e\u6c11\u4e3b\u4e3b\u7fa9\u539f\u5247\u306b\u6cbf\u3063\u305f\u3088\u3046\u306b\u3059\u308b\u5fc5\u8981\u6027\u3092\u5f37\u8abf\u3057\u307e\u3057\u305f\u3002\u305d\u308c\u306b\u3088\u308a\u3001\u5229\u76ca\u3068\u30ea\u30b9\u30af\u304c\u516c\u5e73\u306b\u5206\u914d\u3055\u308c\u308b\u3079\u304d\u3060\u3068\u6307\u6458\u3057\u307e\u3057\u305f\u3002\u307e\u305f\u3001AI\u306e\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3092\u542b\u3081\u3001\u516c\u5171\u306e\u8a8d\u8b58\u3001\u6559\u80b2\u3001\u53c2\u52a0\u306e\u91cd\u8981\u6027\u3092\u5f37\u8abf\u3057\u307e\u3057\u305f\u3002AI\u306f\u3001\u5229\u76ca\u3088\u308a\u3082\u793e\u4f1a\u7684\u8ab2\u984c\u306e\u89e3\u6c7a\u3092\u512a\u5148\u3057\u3001\u591a\u69d8\u306a\u5229\u5bb3\u95a2\u4fc2\u8005\u306b\u3088\u3063\u3066\u5305\u62ec\u7684\u306b\u6cbb\u7406\u3055\u308c\u308b\u3079\u304d\u3060\u3068\u8003\u3048\u3089\u308c\u307e\u3057\u305f\u3002\u30b0\u30ed\u30fc\u30d0\u30eb\u306a\u898f\u683c\u306f\u4fa1\u5024\u304c\u3042\u308b\u3082\u306e\u306e\u3001\u6587\u5316\u3084\u793e\u4f1a\u306e\u898f\u7bc4\u3092\u5c0a\u91cd\u3057\u305f\u5730\u65b9\u306e\u898f\u5236\u3082\u4e0d\u53ef\u6b20\u3067\u3042\u308b\u3068\u8003\u3048\u3089\u308c\u307e\u3057\u305f\u3002\u307e\u305f\u3001AI\u306e\u80fd\u529b\u306b\u3064\u3044\u3066\u516c\u5171\u3092\u6559\u80b2\u3057\u3001\u30c7\u30fc\u30bf\u3078\u306e\u30a2\u30af\u30bb\u30b9\u3092\u62e1\u5927\u3059\u308b\u3053\u3068\u3067AI\u3092\u5584\u7528\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3092\u4fdd\u8b77\u3059\u308b\u5fc5\u8981\u6027\u304c\u91cd\u8981\u3060\u3068\u8003\u3048\u3089\u308c\u307e\u3057\u305f\u3002"
+    ],
+    "<think>\nAlright, so I'm looking at this list of arguments about AI and its impact on the environment and society. First, I see that there's a strong emphasis on human oversight. People are saying that AI shouldn't be making critical environmental decisions on its own without humans being involved. That makes sense because AI, while powerful, doesn't have the same ethical judgment as humans. So, having humans in the loop seems crucial to ensure that decisions are responsible and ethical.\n\nNext, there's a call for caution in the development and deployment of AI applications. The participants are advocating for careful consideration rather than rushing to implement new technologies. This probably stems from concerns about unintended consequences that might arise if AI systems are rolled out too quickly without proper testing and evaluation.\n\nAnother point that stands out is the ethical responsibility of AI researchers and developers. They're being urged to think about the environmental impacts of their work. This suggests that the creation of AI shouldn't just focus on technical advancements but also on how these technologies affect the planet and society as a whole.\n\nThere's also a mention of comprehensive risk assessments that evaluate not just the environmental but also societal and ethical implications. This indicates a desire for a holistic approach to AI development, where all potential impacts are carefully considered before any technology is released.\n\nData privacy is another significant concern. The participants want strict regulations to prevent AI systems from misusing individuals' data. This is probably in response to increasing worries about how personal information is collected, stored, and used by AI technologies.\n\nEducation is highlighted as well. There's a push for public education about the limitations and ethical considerations of AI. This makes sense because as AI becomes more integrated into daily life, people need to understand what AI can and cannot do, as well as the ethical boundaries that should guide its use.\n\nFinally, there's a call for AI developers to be transparent by disclosing their methodologies and datasets. This transparency is likely seen as a way to ensure that AI systems are ethical and unbiased, which is essential for maintaining trust in these technologies.\n\nOverall, the main takeaway is that while AI has the potential to bring about transformative changes, it needs to be developed and deployed responsibly. This involves careful consideration of ethical, environmental, and societal impacts, ensuring human oversight, protecting data privacy, educating the public, and maintaining transparency in AI development processes.\n</think>\n\nThe participants emphasize the need for responsible AI development and deployment, highlighting the importance of human oversight in critical environmental decisions. They advocate for a cautious approach, prioritizing careful consideration over speed to avoid unintended consequences. Ethical responsibility is a key theme, with calls for comprehensive risk assessments that evaluate environmental, societal, and ethical implications. Data privacy regulations are also stressed to protect individuals from potential misuse by AI systems. Additionally, there is a push for public education about AI's limitations and ethical considerations, and for developers to disclose their methodologies and datasets to ensure transparency and unbiased systems. Overall, the focus is on ensuring that AI technologies are developed and implemented responsibly, with attention to ethical, environmental, and societal impacts.": [
+      "\u4eba\u4eec\u5728\u8ba8\u8bba\u4eba\u5de5\u667a\u80fd\u5bf9\u73af\u5883\u548c\u793e\u4f1a\u7684\u5f71\u54cd\u65f6\uff0c\u9996\u5148\u5f3a\u8c03\u4e86\u4eba\u5de5\u667a\u80fd\u5728\u505a\u51fa\u5173\u952e\u73af\u5883\u51b3\u7b56\u65f6\u9700\u8981\u6709\u4eba\u7c7b\u7684\u76d1\u7763\u3002\u867d\u7136\u4eba\u5de5\u667a\u80fd\u5f3a\u5927\uff0c\u4f46\u7f3a\u4e4f\u4eba\u7c7b\u7684\u4f26\u7406\u5224\u65ad\uff0c\u56e0\u6b64\u5728\u5173\u952e\u51b3\u7b56\u4e2d\u5fc5\u987b\u6709\u4eba\u7c7b\u53c2\u4e0e\uff0c\u786e\u4fdd\u51b3\u7b56\u7684\u8d23\u4efb\u6027\u548c\u4f26\u7406\u6027\u3002\n\n\u5176\u6b21\uff0c\u4eba\u4eec\u547c\u5401\u5728\u5f00\u53d1\u548c\u90e8\u7f72\u4eba\u5de5\u667a\u80fd\u5e94\u7528\u65f6\u5e94\u6301\u8c28\u614e\u6001\u5ea6\uff0c\u4e3b\u5f20\u5728\u5b9e\u65bd\u65b0\u6280\u672f\u4e4b\u524d\u8fdb\u884c\u4ed4\u7ec6\u8003\u8651\uff0c\u4ee5\u907f\u514d\u56e0\u8fc7\u5feb\u63a8\u51fa\u800c\u5f15\u53d1\u7684\u6f5c\u5728\u8d1f\u9762\u5f71\u54cd\u3002\n\n\u53e6\u4e00\u4e2a\u7a81\u51fa\u7684\u89c2\u70b9\u662f\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u4eba\u5458\u548c\u5f00\u53d1\u8005\u7684\u4f26\u7406\u8d23\u4efb\u3002\u4ed6\u4eec\u88ab\u6566\u4fc3\u8003\u8651\u5176\u5de5\u4f5c\u5bf9\u73af\u5883\u7684\u5f71\u54cd\uff0c\u8fd9\u8868\u660e\u4eba\u5de5\u667a\u80fd\u7684\u521b\u9020\u4e0d\u5e94\u4ec5\u4ec5\u5173\u6ce8\u6280\u672f\u8fdb\u6b65\uff0c\u8fd8\u5e94\u5173\u6ce8\u8fd9\u4e9b\u6280\u672f\u5bf9\u5730\u7403\u548c\u6574\u4e2a\u793e\u4f1a\u7684\u5f71\u54cd\u3002\n\n\u6b64\u5916\uff0c\u8fd8\u6709\u4eba\u63d0\u5230\u8981\u8fdb\u884c\u5168\u9762\u98ce\u9669\u8bc4\u4f30\uff0c\u4e0d\u4ec5\u8bc4\u4f30\u73af\u5883\u5f71\u54cd\uff0c\u8fd8\u8981\u8bc4\u4f30\u793e\u4f1a\u548c\u4f26\u7406\u5f71\u54cd\u3002\u8fd9\u8868\u660e\u4eba\u4eec\u5e0c\u671b\u5728\u5f00\u53d1\u4eba\u5de5\u667a\u80fd\u65f6\u91c7\u53d6\u5168\u9762\u7684\u65b9\u6cd5\uff0c\u5728\u4efb\u4f55\u6280\u672f\u53d1\u5e03\u4e4b\u524d\u4ed4\u7ec6\u8003\u8651\u6240\u6709\u6f5c\u5728\u5f71\u54cd\u3002\n\n\u6570\u636e\u9690\u79c1\u4e5f\u662f\u4e00\u4e2a\u91cd\u8981\u95ee\u9898\u3002\u53c2\u4e0e\u8005\u5e0c\u671b\u6709\u4e25\u683c\u7684\u89c4\u5b9a\u6765\u9632\u6b62\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u6ee5\u7528\u4e2a\u4eba\u7684\u6570\u636e\u3002\u8fd9\u53ef\u80fd\u662f\u56e0\u4e3a\u4eba\u4eec\u8d8a\u6765\u8d8a\u62c5\u5fc3\u4e2a\u4eba\u4fe1\u606f\u7684\u6536\u96c6\u3001\u5b58\u50a8\u548c\u4f7f\u7528\u3002\n\n\u6559\u80b2\u4e5f\u662f\u4e00\u4e2a\u91cd\u70b9\u3002\u4eba\u4eec\u547c\u5401\u5bf9\u516c\u4f17\u8fdb\u884c\u5173\u4e8e\u4eba\u5de5\u667a\u80fd\u5c40\u9650\u6027\u548c\u4f26\u7406\u8003\u91cf\u7684\u6559\u80b2\u3002\u968f\u7740\u4eba\u5de5\u667a\u80fd\u8d8a\u6765\u8d8a\u878d\u5165\u65e5\u5e38\u751f\u6d3b\uff0c\u4eba\u4eec\u9700\u8981\u4e86\u89e3\u4eba\u5de5\u667a\u80fd\u7684\u80fd\u529b\u548c\u5c40\u9650\uff0c\u4ee5\u53ca\u6307\u5bfc\u5176\u4f7f\u7528\u7684\u4f26\u7406\u8fb9\u754c\u3002\n\n\u6700\u540e\uff0c\u4eba\u4eec\u547c\u5401\u4eba\u5de5\u667a\u80fd\u5f00\u53d1\u8005\u900f\u660e\u5316\uff0c\u516c\u5f00\u4ed6\u4eec\u7684\u65b9\u6cd5\u548c\u6570\u636e\u96c6\u3002\u8fd9\u88ab\u89c6\u4e3a\u786e\u4fdd\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u4f26\u7406\u548c\u65e0\u504f\u89c1\u7684\u65b9\u5f0f\uff0c\u5bf9\u7ef4\u62a4\u8fd9\u4e9b\u6280\u672f\u7684\u4fe1\u4efb\u81f3\u5173\u91cd\u8981\u3002\n\n\u603b\u4f53\u800c\u8a00\uff0c\u4e3b\u8981\u7ed3\u8bba\u662f\uff0c\u867d\u7136\u4eba\u5de5\u667a\u80fd\u6709\u53ef\u80fd\u5e26\u6765\u53d8\u9769\u6027\u53d8\u5316\uff0c\u4f46\u9700\u8981\u8d1f\u8d23\u4efb\u5730\u5f00\u53d1\u548c\u90e8\u7f72\u3002\u8fd9\u6d89\u53ca\u4ed4\u7ec6\u8003\u8651\u4f26\u7406\u3001\u73af\u5883\u548c\u793e\u4f1a\u5f71\u54cd\uff0c\u786e\u4fdd\u4eba\u7c7b\u76d1\u7763\uff0c\u4fdd\u62a4\u6570\u636e\u9690\u79c1\uff0c\u6559\u80b2\u516c\u4f17\uff0c\u5e76\u5728\u4eba\u5de5\u667a\u80fd\u5f00\u53d1\u8fc7\u7a0b\u4e2d\u4fdd\u6301\u900f\u660e\u3002",
+      "AI\u3068\u305d\u306e\u74b0\u5883\u3084\u793e\u4f1a\u3078\u306e\u5f71\u97ff\u306b\u3064\u3044\u3066\u306e\u8b70\u8ad6\u3092\u307e\u3068\u3081\u305f\u30ea\u30b9\u30c8\u3092\u898b\u3066\u3044\u308b\u969b\u3001\u79c1\u306f\u4ee5\u4e0b\u306e\u3088\u3046\u306a\u70b9\u306b\u6ce8\u76ee\u3057\u307e\u3057\u305f\u3002\u307e\u305a\u3001AI\u306e\u6c7a\u5b9a\u306b\u304a\u3051\u308b\u4eba\u7684\u306a\u76e3\u7763\u306e\u91cd\u8981\u6027\u304c\u5f37\u8abf\u3055\u308c\u3066\u3044\u307e\u3059\u3002AI\u304c\u81ea\u5f8b\u7684\u306b\u91cd\u5927\u306a\u74b0\u5883\u6c7a\u5b9a\u3092\u4e0b\u3059\u3079\u304d\u3067\u306f\u306a\u3044\u3068\u3044\u3046\u610f\u898b\u304c\u3042\u308a\u3001\u4eba\u9593\u304c\u95a2\u4e0e\u3057\u3066\u502b\u7406\u7684\u304b\u3064\u8cac\u4efb\u3042\u308b\u6c7a\u5b9a\u3092\u4e0b\u3059\u3079\u304d\u3060\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u304c\u3069\u308c\u307b\u3069\u9ad8\u5ea6\u306a\u6280\u8853\u3067\u3042\u3063\u3066\u3082\u3001\u4eba\u9593\u3068\u540c\u3058\u502b\u7406\u7684\u5224\u65ad\u529b\u3092\u6301\u3063\u3066\u3044\u306a\u3044\u305f\u3081\u3001\u4eba\u9593\u306e\u76e3\u7763\u304c\u4e0d\u53ef\u6b20\u3067\u3042\u308b\u3068\u3044\u3046\u8a8d\u8b58\u304c\u53cd\u6620\u3055\u308c\u305f\u3082\u306e\u3067\u3057\u3087\u3046\u3002\n\n\u6b21\u306b\u3001AI\u306e\u958b\u767a\u3068\u5b9f\u88c5\u306b\u614e\u91cd\u3055\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u53c2\u52a0\u8005\u306f\u3001\u65b0\u3057\u3044\u6280\u8853\u3092\u6025\u3050\u3053\u3068\u306a\u304f\u3001\u5341\u5206\u306a\u691c\u8a0e\u3068\u30c6\u30b9\u30c8\u3092\u7d4c\u3066\u614e\u91cd\u306b\u9032\u3081\u308b\u3079\u304d\u3060\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u30b7\u30b9\u30c6\u30e0\u3092\u77ed\u671f\u9593\u306b\u5b9f\u88c5\u3057\u305f\u5834\u5408\u306b\u8d77\u3053\u308a\u3046\u308b\u4e88\u671f\u305b\u306c\u7d50\u679c\u306b\u5bfe\u3059\u308b\u61f8\u5ff5\u304b\u3089\u6765\u3066\u3044\u308b\u306e\u3067\u3057\u3087\u3046\u3002\n\n\u3055\u3089\u306b\u3001AI\u306e\u7814\u7a76\u8005\u3084\u958b\u767a\u8005\u306e\u502b\u7406\u7684\u8cac\u4efb\u306b\u3064\u3044\u3066\u3082\u89e6\u308c\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u5f7c\u3089\u306f\u3001\u81ea\u5206\u306e\u4ed5\u4e8b\u304c\u74b0\u5883\u306b\u53ca\u307c\u3059\u5f71\u97ff\u3092\u8003\u616e\u3059\u3079\u304d\u3060\u3068\u6c42\u3081\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u306e\u5275\u9020\u304c\u6280\u8853\u7684\u9032\u6b69\u306e\u307f\u306b\u7126\u70b9\u3092\u5f53\u3066\u904e\u304e\u3066\u3001\u5730\u7403\u3084\u793e\u4f1a\u5168\u4f53\u3078\u306e\u5f71\u97ff\u304c\u8efd\u8996\u3055\u308c\u304c\u3061\u3067\u3042\u308b\u305f\u3081\u3001\u4e21\u8005\u3092\u30d0\u30e9\u30f3\u30b9\u3088\u304f\u8003\u3048\u308b\u5fc5\u8981\u6027\u304c\u5f37\u8abf\u3055\u308c\u305f\u3082\u306e\u3068\u8003\u3048\u3089\u308c\u307e\u3059\u3002\n\n\u7dcf\u5408\u7684\u306a\u30ea\u30b9\u30af\u8a55\u4fa1\u306e\u91cd\u8981\u6027\u3082\u6307\u6458\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u74b0\u5883\u3060\u3051\u3067\u306a\u304f\u3001\u793e\u4f1a\u7684\u3001\u502b\u7406\u7684\u306a\u5f71\u97ff\u3082\u542b\u3081\u305f\u8a55\u4fa1\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u306e\u958b\u767a\u306b\u304a\u3044\u3066\u3001\u6f5c\u5728\u7684\u306a\u5f71\u97ff\u3092\u5168\u3066\u614e\u91cd\u306b\u8003\u616e\u3059\u308b\u30db\u30ea\u30b9\u30c6\u30a3\u30c3\u30af\u306a\u30a2\u30d7\u30ed\u30fc\u30c1\u304c\u5fc5\u8981\u3060\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u308b\u305f\u3081\u3067\u3057\u3087\u3046\u3002\n\n\u30c7\u30fc\u30bf\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3082\u5927\u304d\u306a\u95a2\u5fc3\u4e8b\u3067\u3059\u3002AI\u30b7\u30b9\u30c6\u30e0\u304c\u500b\u4eba\u60c5\u5831\u3092\u60aa\u7528\u3057\u306a\u3044\u3088\u3046\u306b\u3001\u53b3\u683c\u306a\u898f\u5236\u3092\u6c42\u3081\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u6280\u8853\u304c\u500b\u4eba\u60c5\u5831\u3092\u3069\u306e\u3088\u3046\u306b\u53ce\u96c6\u3001\u4fdd\u5b58\u3001\u6d3b\u7528\u3059\u308b\u304b\u306b\u5bfe\u3059\u308b\u5fc3\u914d\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u305f\u3081\u3067\u3057\u3087\u3046\u3002\n\n\u6559\u80b2\u9762\u3067\u306e\u53d6\u308a\u7d44\u307f\u3082\u91cd\u8981\u8996\u3055\u308c\u3066\u3044\u307e\u3059\u3002AI\u306e\u9650\u754c\u3068\u502b\u7406\u7684\u8003\u616e\u306b\u3064\u3044\u3066\u306e\u516c\u5171\u6559\u80b2\u3092\u63a8\u9032\u3059\u308b\u3079\u304d\u3060\u3068\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u304c\u65e5\u5e38\u751f\u6d3b\u306b\u6df1\u304f\u6839\u4ed8\u304f\u306b\u3064\u308c\u3001\u4eba\u3005\u304cAI\u306e\u53ef\u80fd\u6027\u3068\u9650\u754c\u3001\u305d\u3057\u3066\u305d\u306e\u4f7f\u7528\u3092\u5c0e\u304f\u3079\u304d\u502b\u7406\u7684\u5883\u754c\u3092\u7406\u89e3\u3059\u308b\u5fc5\u8981\u6027\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u305f\u3081\u3067\u3059\u3002\n\n\u6700\u5f8c\u306b\u3001AI\u958b\u767a\u8005\u304c\u624b\u6cd5\u3084\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u3092\u516c\u958b\u3057\u3001\u900f\u660e\u6027\u3092\u4fdd\u3064\u3079\u304d\u3060\u3068\u547c\u3073\u304b\u3051\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u30b7\u30b9\u30c6\u30e0\u304c\u502b\u7406\u7684\u3067\u504f\u898b\u306e\u306a\u3044\u3082\u306e\u3067\u3042\u308b\u3053\u3068\u3092\u4fdd\u8a3c\u3059\u308b\u305f\u3081\u306e\u91cd\u8981\u306a\u624b\u6bb5\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u308b\u306e\u3067\u3057\u3087\u3046\u3002\n\n\u7dcf\u3058\u3066\u3001AI\u306f\u9769\u547d\u7684\u306a\u5909\u5316\u3092\u3082\u305f\u3089\u3059\u6f5c\u5728\u6027\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u304c\u3001\u305d\u306e\u958b\u767a\u3068\u5b9f\u88c5\u306f\u8cac\u4efb\u3092\u3082\u3063\u3066\u884c\u308f\u308c\u308b\u3079\u304d\u3060\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306b\u306f\u3001\u502b\u7406\u7684\u3001\u74b0\u5883\u7684\u3001\u793e\u4f1a\u7684\u306a\u5f71\u97ff\u3092\u614e\u91cd\u306b\u8003\u616e\u3057\u3001\u4eba\u7684\u306a\u76e3\u7763\u3092\u78ba\u4fdd\u3057\u3001\u30c7\u30fc\u30bf\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3092\u4fdd\u8b77\u3057\u3001\u516c\u4f17\u3092\u6559\u80b2\u3057\u3001AI\u306e\u958b\u767a\u30d7\u30ed\u30bb\u30b9\u306b\u304a\u3044\u3066\u900f\u660e\u6027\u3092\u7dad\u6301\u3059\u308b\u3053\u3068\u304c\u542b\u307e\u308c\u307e\u3059\u3002"
+    ],
+    "<think>\nOkay, so I've been given this list of statements about AI and its relationship with the environment and society. I need to summarize the main points. Let me read through them again to make sure I understand each one.\n\nThe first statement says that AI systems should prioritize justice, empowerment, and environmental stewardship over efficiency and profit. That makes sense because sometimes efficiency and profit can lead to negative environmental impacts, so focusing on more ethical goals might be better.\n\nNext, it mentions that AI governance frameworks should include environmental representatives and consider ecological impacts. I think this is about ensuring that when decisions about AI are made, environmental experts have a say to protect the planet.\n\nThen, it says AI should be used to help monitor, model, and reduce humanity's environmental footprint. AI can be a tool for tracking and mitigating the effects of human activity on the environment, which seems useful.\n\nThe fourth point is about conducting comprehensive life cycle assessments for AI systems to understand their environmental footprints. This means looking at every stage of an AI system's life, from development to disposal, to see how it affects the environment.\n\nIt also mentions that AI systems should be designed and deployed sustainably, considering their environmental impacts like energy use, materials, and waste. So, making AI systems more eco-friendly throughout their entire lifecycle.\n\nThe statement about AI technologies aiming to be as energy-efficient as possible to reduce their environmental impact is straightforward\u2014using less energy means less harm to the environment.\n\nAI development should follow a universally accepted ethical framework that prioritizes human well-being and environmental sustainability. This suggests that there should be global standards for AI that focus on doing good for people and the planet.\n\nGlobal cooperation on AI governance is crucial to manage environmental changes. If different countries work together on how AI is governed, they can better address environmental issues.\n\nAI deployment must respect nature and human dignity to realize sustainability benefits. This means that when AI is used, it should not harm the environment or people's rights, ensuring that sustainability is achieved ethically.\n\nLastly, it says that AI can drive optimization but may also lead to increased consumption. While AI can make things more efficient, it might also encourage more use of resources, which could be bad for the environment.\n\nOverall, these statements seem to advocate for a responsible and sustainable approach to AI, ensuring that it benefits both society and the environment without causing harm.\n</think>\n\nThe main points from the statements emphasize the need for AI systems to prioritize ethical considerations such as justice, empowerment, and environmental stewardship over traditional goals like efficiency and profit. They advocate for inclusive governance frameworks that incorporate environmental representatives to assess ecological impacts. The role of AI in monitoring and reducing humanity's environmental footprint is highlighted, along with the importance of conducting life cycle assessments to understand and mitigate the environmental effects of AI systems. The statements also stress the need for sustainable design and deployment of AI, focusing on energy efficiency and minimal environmental impact. Additionally, they call for a universally accepted ethical framework for AI development that prioritizes human well-being and environmental sustainability. Global cooperation in AI governance is deemed crucial to effectively manage environmental changes, ensuring that AI deployment respects both nature and human dignity. While AI can drive optimization, there is a cautionary note about its potential to increase consumption, underscoring the need for a balanced approach that promotes sustainability without causing harm.": [
+      "\u597d\u7684\uff0c\u6211\u5df2\u7ecf\u6536\u5230\u4e86\u4e00\u7cfb\u5217\u5173\u4e8e\u4eba\u5de5\u667a\u80fd\u4e0e\u73af\u5883\u548c\u793e\u4f1a\u5173\u7cfb\u7684\u9648\u8ff0\u3002\u8fd9\u4e9b\u9648\u8ff0\u5f3a\u8c03\u4e86\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u5e94\u8be5\u4f18\u5148\u8003\u8651\u516c\u6b63\u3001\u8d4b\u6743\u548c\u73af\u5883\u4fdd\u62a4\uff0c\u800c\u975e\u6548\u7387\u548c\u5229\u6da6\u3002\u8fd9\u610f\u5473\u7740\uff0c\u5728\u8bbe\u8ba1\u548c\u90e8\u7f72\u4eba\u5de5\u667a\u80fd\u65f6\uff0c\u5e94\u8be5\u66f4\u52a0\u6ce8\u91cd\u4f26\u7406\u548c\u73af\u5883\u5f71\u54cd\uff0c\u800c\u4e0d\u662f\u5355\u7eaf\u8ffd\u6c42\u7ecf\u6d4e\u6548\u76ca\u3002\n\n\u5176\u6b21\uff0c\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\u6846\u67b6\u5e94\u5305\u62ec\u73af\u5883\u4ee3\u8868\uff0c\u5e76\u8003\u8651\u751f\u6001\u5f71\u54cd\u3002\u8fd9\u8868\u660e\uff0c\u5728\u5236\u5b9a\u4eba\u5de5\u667a\u80fd\u653f\u7b56\u65f6\uff0c\u5e94\u8be5\u8ba9\u73af\u5883\u4e13\u5bb6\u6709\u53d1\u8a00\u6743\uff0c\u4ee5\u786e\u4fdd\u4eba\u5de5\u667a\u80fd\u7684\u53d1\u5c55\u4e0d\u4f1a\u5bf9\u73af\u5883\u9020\u6210\u8d1f\u9762\u5f71\u54cd\u3002\n\n\u6b64\u5916\uff0c\u4eba\u5de5\u667a\u80fd\u5e94\u8be5\u88ab\u7528\u6765\u5e2e\u52a9\u76d1\u6d4b\u3001\u5efa\u6a21\u548c\u51cf\u5c11\u4eba\u7c7b\u7684\u73af\u5883\u8db3\u8ff9\u3002\u901a\u8fc7\u5229\u7528\u4eba\u5de5\u667a\u80fd\u6280\u672f\uff0c\u4eba\u7c7b\u53ef\u4ee5\u66f4\u597d\u5730\u4e86\u89e3\u5e76\u51cf\u5c11\u5bf9\u73af\u5883\u7684\u5f71\u54cd\u3002\n\n\u7b2c\u56db\uff0c\u5e94\u8be5\u5bf9\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u8fdb\u884c\u5168\u9762\u7684\u751f\u547d\u5468\u671f\u8bc4\u4f30\uff0c\u4ee5\u7406\u89e3\u5176\u73af\u5883\u8db3\u8ff9\u3002\u8fd9\u610f\u5473\u7740\uff0c\u6211\u4eec\u9700\u8981\u4ece\u5f00\u53d1\u3001\u4f7f\u7528\u5230\u62a5\u5e9f\u7684\u6574\u4e2a\u8fc7\u7a0b\u4e2d\uff0c\u8bc4\u4f30\u4eba\u5de5\u667a\u80fd\u5bf9\u73af\u5883\u7684\u5f71\u54cd\u3002\n\n\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u7684\u8bbe\u8ba1\u548c\u90e8\u7f72\u5e94\u8be5\u8003\u8651\u5176\u73af\u5883\u5f71\u54cd\uff0c\u5982\u80fd\u6e90\u4f7f\u7528\u3001\u6750\u6599\u548c\u5e9f\u7269\u3002\u8fd9\u8981\u6c42\u5728\u5f00\u53d1\u4eba\u5de5\u667a\u80fd\u65f6\uff0c\u5c31\u8003\u8651\u5230\u5176\u5bf9\u73af\u5883\u7684\u6f5c\u5728\u5f71\u54cd\uff0c\u5e76\u5c3d\u91cf\u51cf\u5c11\u4e0d\u5229\u56e0\u7d20\u3002\n\n\u4eba\u5de5\u667a\u80fd\u6280\u672f\u5e94\u8be5\u5c3d\u53ef\u80fd\u5730\u8282\u80fd\uff0c\u4ee5\u51cf\u5c11\u5176\u5bf9\u73af\u5883\u7684\u5f71\u54cd\u3002\u901a\u8fc7\u63d0\u9ad8\u80fd\u6e90\u6548\u7387\uff0c\u4eba\u5de5\u667a\u80fd\u7cfb\u7edf\u53ef\u4ee5\u66f4\u52a0\u73af\u4fdd\u3002\n\n\u4eba\u5de5\u667a\u80fd\u7684\u53d1\u5c55\u5e94\u8be5\u9075\u5faa\u4e00\u4e2a\u666e\u904d\u63a5\u53d7\u7684\u9053\u5fb7\u6846\u67b6\uff0c\u4f18\u5148\u8003\u8651\u4eba\u7c7b\u798f\u7949\u548c\u73af\u5883\u53ef\u6301\u7eed\u6027\u3002\u8fd9\u610f\u5473\u7740\uff0c\u4eba\u5de5\u667a\u80fd\u7684\u53d1\u5c55\u5e94\u8be5\u4ee5\u5168\u7403\u5316\u7684\u89c6\u89d2\uff0c\u786e\u4fdd\u5176\u7b26\u5408\u4f26\u7406\u6807\u51c6\uff0c\u5e76\u6709\u5229\u4e8e\u793e\u4f1a\u548c\u73af\u5883\u7684\u53ef\u6301\u7eed\u53d1\u5c55\u3002\n\n\u5168\u7403\u5408\u4f5c\u5728\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\u4e2d\u81f3\u5173\u91cd\u8981\uff0c\u4ee5\u7ba1\u7406\u73af\u5883\u53d8\u5316\u3002\u53ea\u6709\u5404\u56fd\u5171\u540c\u52aa\u529b\uff0c\u5236\u5b9a\u7edf\u4e00\u7684\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\u6807\u51c6\uff0c\u624d\u80fd\u6709\u6548\u5e94\u5bf9\u73af\u5883\u95ee\u9898\u3002\n\n\u4eba\u5de5\u667a\u80fd\u7684\u90e8\u7f72\u5fc5\u987b\u5c0a\u91cd\u81ea\u7136\u548c\u4eba\u7c7b\u5c0a\u4e25\uff0c\u4ee5\u5b9e\u73b0\u53ef\u6301\u7eed\u6027\u76ca\u5904\u3002\u8fd9\u610f\u5473\u7740\uff0c\u5728\u5e94\u7528\u4eba\u5de5\u667a\u80fd\u65f6\uff0c\u5e94\u8be5\u907f\u514d\u5bf9\u73af\u5883\u548c\u4eba\u7c7b\u6743\u5229\u7684\u4fb5\u5bb3\uff0c\u786e\u4fdd\u53ef\u6301\u7eed\u53d1\u5c55\u7684\u5b9e\u73b0\u3002\n\n\u6700\u540e\uff0c\u4eba\u5de5\u667a\u80fd\u53ef\u4ee5\u63a8\u52a8\u4f18\u5316\uff0c\u4f46\u4e5f\u53ef\u80fd\u5bfc\u81f4\u6d88\u8d39\u91cf\u7684\u589e\u52a0\u3002\u867d\u7136\u4eba\u5de5\u667a\u80fd\u53ef\u4ee5\u63d0\u9ad8\u6548\u7387\uff0c\u4f46\u5176\u53ef\u80fd\u5bfc\u81f4\u8d44\u6e90\u6d88\u8017\u589e\u52a0\uff0c\u8fd9\u5bf9\u73af\u5883\u53ef\u80fd\u4e0d\u5229\u3002\n\n\u603b\u7684\u6765\u8bf4\uff0c\u8fd9\u4e9b\u9648\u8ff0\u5f3a\u8c03\u4e86\u8d1f\u8d23\u4efb\u548c\u53ef\u6301\u7eed\u7684\u4eba\u5de5\u667a\u80fd\u53d1\u5c55\u7684\u5fc5\u8981\u6027\u3002\u4eba\u5de5\u667a\u80fd\u5e94\u8be5\u5728\u4e0d\u5bf9\u73af\u5883\u548c\u793e\u4f1a\u9020\u6210\u4f24\u5bb3\u7684\u524d\u63d0\u4e0b\uff0c\u5e26\u6765\u76ca\u5904\u3002",
+      "OK\u3001AI\u3068\u74b0\u5883\u3084\u793e\u4f1a\u3068\u306e\u95a2\u4fc2\u306b\u3064\u3044\u3066\u306e\u58f0\u660e\u3092\u307e\u3068\u3081\u308b\u3088\u3046\u306b\u6307\u793a\u3055\u308c\u307e\u3057\u305f\u3002\u3053\u308c\u3092\u5b9f\u73fe\u3059\u308b\u305f\u3081\u306b\u3001\u58f0\u660e\u3092\u4e00\u3064\u4e00\u3064\u78ba\u8a8d\u3057\u306a\u304c\u3089\u8981\u70b9\u3092\u62bd\u51fa\u3057\u307e\u3059\u3002\n\n\u6700\u521d\u306e\u58f0\u660e\u306f\u3001AI\u30b7\u30b9\u30c6\u30e0\u304c\u52b9\u7387\u3084\u5229\u76ca\u3088\u308a\u3082\u6b63\u7fa9\u3001\u30a8\u30f3\u30d1\u30ef\u30fc\u30e1\u30f3\u30c8\u3001\u74b0\u5883\u4fdd\u8b77\u3092\u512a\u5148\u3059\u3079\u304d\u3060\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001\u52b9\u7387\u3068\u5229\u76ca\u304c\u6642\u3005\u60aa\u5f71\u97ff\u3092\u53ca\u307c\u3059\u53ef\u80fd\u6027\u304c\u3042\u308b\u305f\u3081\u3001\u3088\u308a\u502b\u7406\u7684\u306a\u76ee\u6a19\u306b\u7126\u70b9\u3092\u5f53\u3066\u305f\u65b9\u304c\u826f\u3044\u306e\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002\n\n\u6b21\u306e\u58f0\u660e\u306f\u3001AI\u306e\u30ac\u30d0\u30ca\u30f3\u30b9\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af\u306b\u74b0\u5883\u62c5\u5f53\u8005\u3092\u542b\u3081\u3001\u751f\u614b\u5b66\u7684\u5f71\u97ff\u3092\u8003\u616e\u3059\u3079\u304d\u3060\u3068\u8a00\u3044\u307e\u3059\u3002\u8fd9\u610f\u5473\u7740\u3001AI\u306e\u6c7a\u5b9a\u6642\u306b\u3001\u74b0\u5883\u5c02\u9580\u5bb6\u304c\u767a\u8a00\u529b\u3092\u6301\u3061\u3001\u5730\u7403\u3092\u5b88\u308b\u305f\u3081\u306b\u63aa\u7f6e\u3092\u8b1b\u3058\u308b\u3079\u304d\u3060\u3068\u8003\u3048\u307e\u3059\u3002\n\n\u305d\u306e\u5f8c\u3001AI\u3092\u7528\u3044\u3066\u4eba\u9593\u306e\u74b0\u5883\u8db3\u8de1\u3092\u76e3\u8996\u3001\u30e2\u30c7\u30eb\u5316\u3001\u8efd\u6e1b\u3059\u308b\u624b\u52a9\u3051\u3068\u3059\u308b\u3079\u304d\u3060\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002AI\u306f\u3001\u4eba\u9593\u306e\u6d3b\u52d5\u304c\u74b0\u5883\u306b\u4e0e\u3048\u308b\u5f71\u97ff\u3092\u8ffd\u8de1\u3057\u3001\u8efd\u6e1b\u3059\u308b\u305f\u3081\u306e\u30c4\u30fc\u30eb\u3068\u306a\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002\n\n4\u756a\u76ee\u306e\u8981\u70b9\u306f\u3001AI\u30b7\u30b9\u30c6\u30e0\u306e\u74b0\u5883\u8db3\u8de1\u3092\u7406\u89e3\u3059\u308b\u305f\u3081\u306b\u3001\u5305\u62ec\u7684\u306a\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u8a55\u4fa1\u3092\u5b9f\u65bd\u3059\u308b\u3053\u3068\u3067\u3059\u3002\u3053\u308c\u306f\u3001AI\u30b7\u30b9\u30c6\u30e0\u306e\u958b\u767a\u6bb5\u968e\u304b\u3089\u5ec3\u68c4\u307e\u3067\u306e\u3059\u3079\u3066\u306e\u6bb5\u968e\u3092\u8003\u616e\u3057\u3001\u305d\u306e\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3092\u8a55\u4fa1\u3059\u308b\u3053\u3068\u3092\u610f\u5473\u3057\u307e\u3059\u3002\n\n\u307e\u305f\u3001AI\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u30a8\u30cd\u30eb\u30ae\u30fc\u4f7f\u7528\u3001\u6750\u6599\u3001\u5ec3\u68c4\u7269\u306a\u3069\u306e\u74b0\u5883\u5f71\u97ff\u3092\u8003\u616e\u3057\u3066\u3001\u6301\u7d9a\u53ef\u80fd\u306a\u65b9\u6cd5\u3067\u8a2d\u8a08\u304a\u3088\u3073\u5c55\u958b\u3055\u308c\u308b\u3079\u304d\u3060\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u3064\u307e\u308a\u3001AI\u30b7\u30b9\u30c6\u30e0\u306e\u5168\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u3092\u901a\u3058\u3066\u3001\u3088\u308a\u30a8\u30b3\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u8a2d\u8a08\u3068\u5c55\u958b\u3092\u5fc3\u639b\u3051\u308b\u3079\u304d\u3067\u3059\u3002\n\nAI\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306f\u3001\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3092\u8efd\u6e1b\u3059\u308b\u305f\u3081\u306b\u3001\u53ef\u80fd\u306a\u9650\u308a\u30a8\u30cd\u30eb\u30ae\u30fc\u52b9\u7387\u3092\u9ad8\u3081\u308b\u3079\u304d\u3060\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u30a8\u30cd\u30eb\u30ae\u30fc\u4f7f\u7528\u91cf\u304c\u5c11\u306a\u3051\u308c\u3070\u3001\u74b0\u5883\u3078\u306e\u60aa\u5f71\u97ff\u3082\u5c11\u306a\u3044\u304b\u3089\u3067\u3059\u3002\n\nAI\u306e\u958b\u767a\u306f\u3001\u4eba\u9593\u306e\u5e78\u798f\u3068\u74b0\u5883\u306e\u6301\u7d9a\u53ef\u80fd\u6027\u3092\u512a\u5148\u3059\u308b\u3001\u5168\u4e16\u754c\u7684\u306b\u53d7\u3051\u5165\u308c\u3089\u308c\u305f\u502b\u7406\u7684\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af\u306b\u5f93\u3046\u3079\u304d\u3060\u3068\u8ff0\u3079\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u306b\u4e16\u754c\u7684\u306a\u57fa\u6e96\u3092\u8a2d\u3051\u3001\u4eba\u3005\u3084\u5730\u7403\u306e\u5229\u76ca\u3092\u91cd\u8996\u3059\u308b\u3053\u3068\u3092\u793a\u5506\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u74b0\u5883\u306e\u5909\u5316\u3092\u7ba1\u7406\u3059\u308b\u305f\u3081\u306b\u306f\u3001AI\u306e\u30ac\u30d0\u30ca\u30f3\u30b9\u306b\u95a2\u3059\u308b\u56fd\u969b\u7684\u306a\u5354\u529b\u304c\u91cd\u8981\u3067\u3059\u3002\u5404\u56fd\u304cAI\u306e\u7ba1\u7406\u306b\u3064\u3044\u3066\u5354\u529b\u3059\u308b\u3053\u3068\u3067\u3001\u74b0\u5883\u306e\u554f\u984c\u306b\u5bfe\u51e6\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\n\nAI\u306e\u5c55\u958b\u306f\u3001\u6301\u7d9a\u53ef\u80fd\u6027\u306e\u5229\u76ca\u3092\u5b9f\u73fe\u3059\u308b\u305f\u3081\u306b\u3001\u81ea\u7136\u3068\u4eba\u9593\u306e\u5c0a\u53b3\u3092\u5c0a\u91cd\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u3053\u308c\u306f\u3001AI\u3092\u4f7f\u7528\u3059\u308b\u969b\u306b\u3001\u74b0\u5883\u3084\u4eba\u3005\u306e\u6a29\u5229\u3092\u5bb3\u3059\u308b\u3053\u3068\u304c\u306a\u3044\u3088\u3046\u306b\u3057\u3001\u6301\u7d9a\u53ef\u80fd\u6027\u3092\u502b\u7406\u7684\u306b\u9054\u6210\u3059\u308b\u3053\u3068\u3092\u610f\u5473\u3057\u307e\u3059\u3002\n\n\u6700\u5f8c\u306b\u3001AI\u306f\u6700\u9069\u5316\u3092\u4fc3\u9032\u3059\u308b\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u304c\u3001\u6d88\u8cbb\u306e\u5897\u52a0\u306b\u3082\u3064\u306a\u304c\u308b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002AI\u306f\u52b9\u7387\u6027\u3092\u9ad8\u3081\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u304c\u3001\u30ea\u30bd\u30fc\u30b9\u4f7f\u7528\u91cf\u306e\u5897\u52a0\u306b\u3082\u3064\u306a\u304c\u308a\u304b\u306d\u306a\u3044\u305f\u3081\u3001\u74b0\u5883\u306b\u60aa\u5f71\u97ff\u3092\u53ca\u307c\u3059\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u7dcf\u3058\u3066\u3001\u3053\u308c\u3089\u306e\u58f0\u660e\u306f\u3001AI\u304c\u793e\u4f1a\u3068\u74b0\u5883\u306e\u4e21\u65b9\u306b\u5229\u76ca\u3092\u3082\u305f\u3089\u3059\u8cac\u4efb\u3042\u308b\u304b\u3064\u6301\u7d9a\u53ef\u80fd\u306a\u30a2\u30d7\u30ed\u30fc\u30c1\u3092\u4e3b\u5f35\u3057\u3066\u3044\u307e\u3059\u304c\u3001\u5bb3\u3092\u53ca\u307c\u3055\u306a\u3044\u3088\u3046\u306b\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002"
+    ],
+    "<think>\nOkay, I need to summarize the findings of the public consultation on AI governance. The clusters identified are Equitable Development and Deployment, Cautious and Responsible Development, and Environmental Impact and Sustainability. Each cluster has its own set of key points that need to be included in the summary.\n\nFirst, for Equitable Development and Deployment, the main ideas are aligning AI with democratic principles globally, ensuring equitable distribution of benefits and risks, prioritizing societal challenges over profit, and the need for localized regulations alongside global standards. Also, inclusive governance involving diverse stakeholders and public education on AI capabilities are important points.\n\nNext, Cautious and Responsible Development emphasizes human oversight in AI decision-making, especially for environmental issues. It also stresses the need for careful consideration to avoid rushing into deployments, ethical responsibility among developers, comprehensive risk assessments, data privacy regulations, public education on AI's limitations, and transparency in AI methodologies.\n\nLastly, Environmental Impact and Sustainability focuses on prioritizing justice and environmental stewardship, involving environmental representatives in AI governance, using AI to monitor and reduce environmental footprints, conducting life cycle assessments, sustainable design, energy efficiency, a universal ethical framework, global cooperation, and the balance between optimization and consumption.\n\nNow, I need to condense all these points into a concise summary that captures the essence of each cluster without being too wordy. I should ensure that each key theme is represented clearly and succinctly, avoiding any unnecessary fluff. The summary should be one paragraph with no more than four sentences and must avoid platitudes.\n\nI'll start by addressing equitable development, then move to cautious and responsible development, and finally touch on environmental sustainability. I need to make sure each part flows logically into the next, highlighting the main concerns and recommendations from each cluster.\n\nI should also ensure that the summary reflects the diversity of perspectives, emphasizing the need for global cooperation, ethical frameworks, and sustainable practices. It's important to highlight both the potential of AI to drive positive change and the need for careful management to mitigate risks.\n\nFinally, I'll review the summary to make sure it's concise, clear, and free of jargon, ensuring that it accurately represents the findings from the public consultation.\n</think>\n\nThe public consultation on AI governance revealed three key clusters of findings. First, equitable development and deployment emphasize aligning AI with global democratic principles, ensuring fair distribution of benefits and risks, prioritizing societal challenges over profit, and balancing global standards with localized regulations. Second, cautious and responsible development highlights the need for human oversight, careful consideration to avoid harmful consequences, ethical responsibility among developers, comprehensive risk assessments, data privacy regulations, public education on AI limitations, and transparency in methodologies. Finally, environmental impact and sustainability stress the importance of prioritizing justice and environmental stewardship, involving environmental experts in governance, using AI to monitor and reduce ecological footprints, conducting life cycle assessments, designing sustainable systems, promoting energy efficiency, establishing a universal ethical framework, fostering global cooperation, and addressing the balance between optimization and consumption. These findings underscore the need for a holistic, ethical, and sustainable approach to AI governance that prioritizes human well-being and environmental protection while leveraging AI's potential for positive change.": [
+      "\u597d\u7684\uff0c\u6211\u9700\u8981\u603b\u7ed3\u5173\u4e8e\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\u7684\u516c\u5171\u54a8\u8be2\u7ed3\u679c\u3002\u8bc6\u522b\u51fa\u7684\u96c6\u7fa4\u5305\u62ec\u516c\u5e73\u7684\u53d1\u5c55\u4e0e\u90e8\u7f72\u3001\u8c28\u614e\u548c\u8d1f\u8d23\u4efb\u7684\u53d1\u5c55\u4ee5\u53ca\u73af\u5883\u5f71\u54cd\u4e0e\u53ef\u6301\u7eed\u6027\u3002\u6bcf\u4e2a\u96c6\u7fa4\u90fd\u6709\u5176\u81ea\u8eab\u7684\u4e00\u7cfb\u5217\u5173\u952e\u70b9\uff0c\u8fd9\u4e9b\u90fd\u9700\u8981\u5305\u542b\u5728\u603b\u7ed3\u4e2d\u3002\n\n\u9996\u5148\uff0c\u5173\u4e8e\u516c\u5e73\u7684\u53d1\u5c55\u4e0e\u90e8\u7f72\uff0c\u4e3b\u8981\u89c2\u70b9\u5305\u62ec\u5c06\u4eba\u5de5\u667a\u80fd\u4e0e\u5168\u7403\u6c11\u4e3b\u539f\u5219\u76f8\u7ed3\u5408\u3001\u786e\u4fdd\u5229\u76ca\u548c\u98ce\u9669\u7684\u516c\u5e73\u5206\u914d\u3001\u5c06\u793e\u4f1a\u6311\u6218\u7f6e\u4e8e\u5229\u6da6\u4e4b\u4e0a\uff0c\u4ee5\u53ca\u5728\u5168\u7403\u6807\u51c6\u7684\u540c\u65f6\u5236\u5b9a\u672c\u5730\u5316\u6cd5\u89c4\u3002\u6b64\u5916\uff0c\u6d89\u53ca\u591a\u5143\u5229\u76ca\u76f8\u5173\u8005\u7684\u5305\u5bb9\u6027\u6cbb\u7406\u4ee5\u53ca\u516c\u4f17\u5bf9\u4eba\u5de5\u667a\u80fd\u80fd\u529b\u7684\u6559\u80b2\u4e5f\u662f\u91cd\u8981\u5185\u5bb9\u3002\n\n\u5176\u6b21\uff0c\u8c28\u614e\u548c\u8d1f\u8d23\u4efb\u7684\u53d1\u5c55\u5f3a\u8c03\u5728\u4eba\u5de5\u667a\u80fd\u51b3\u7b56\u4e2d\u9700\u8981\u4eba\u7c7b\u7684\u76d1\u7763\uff0c\u7279\u522b\u662f\u5728\u73af\u5883\u95ee\u9898\u4e0a\u3002\u540c\u65f6\uff0c\u5f3a\u8c03\u5728\u90e8\u7f72\u4e4b\u524d\u8981\u8c28\u614e\u8003\u8651\uff0c\u907f\u514d\u5306\u5fd9\u884c\u52a8\uff0c\u5f00\u53d1\u8005\u9700\u8981\u627f\u62c5\u9053\u5fb7\u8d23\u4efb\uff0c\u8fdb\u884c\u5168\u9762\u7684\u98ce\u9669\u8bc4\u4f30\uff0c\u5236\u5b9a\u6570\u636e\u9690\u79c1\u6cd5\u89c4\uff0c\u5411\u516c\u4f17\u6559\u80b2\u4eba\u5de5\u667a\u80fd\u7684\u5c40\u9650\u6027\uff0c\u4ee5\u53ca\u4eba\u5de5\u667a\u80fd\u65b9\u6cd5\u7684\u900f\u660e\u5ea6\u3002\n\n\u6700\u540e\uff0c\u73af\u5883\u5f71\u54cd\u4e0e\u53ef\u6301\u7eed\u6027\u7740\u91cd\u4e8e\u4f18\u5148\u8003\u8651\u73af\u5883\u6b63\u4e49\u4e0e\u7ba1\u7406\uff0c\u6d89\u53ca\u73af\u5883\u4ee3\u8868\u53c2\u4e0e\u4eba\u5de5\u667a\u80fd\u6cbb\u7406\uff0c\u5229\u7528\u4eba\u5de5\u667a\u80fd\u76d1\u6d4b\u548c\u51cf\u5c11\u751f\u6001\u8db3\u8ff9\uff0c\u8fdb\u884c\u751f\u547d\u5468\u671f\u8bc4\u4f30\uff0c\u63a8\u52a8\u53ef\u6301\u7eed\u8bbe\u8ba1\uff0c\u63d0\u9ad8\u80fd\u6e90\u6548\u7387\uff0c\u5236\u5b9a\u666e\u904d\u7684\u9053\u5fb7\u6846\u67b6\uff0c\u4fc3\u8fdb\u5168\u7403\u5408\u4f5c\uff0c\u4ee5\u53ca\u5728\u4f18\u5316\u4e0e\u6d88\u8d39\u4e4b\u95f4\u5bfb\u627e\u5e73\u8861\u3002\n\n\u73b0\u5728\uff0c\u6211\u9700\u8981\u5c06\u6240\u6709\u8fd9\u4e9b\u8981\u70b9\u6d53\u7f29\u6210\u4e00\u4e2a\u7b80\u660e\u627c\u8981\u7684\u603b\u7ed3\uff0c\u6293\u4f4f\u6bcf\u4e2a\u96c6\u7fa4\u7684\u6838\u5fc3\uff0c\u800c\u4e0d\u5197\u957f\u3002\u6211\u8981\u786e\u4fdd\u6bcf\u4e2a\u5173\u952e\u4e3b\u9898\u90fd\u6e05\u6670\u660e\u786e\u5730\u8868\u8fbe\u51fa\u6765\uff0c\u907f\u514d\u4e0d\u5fc5\u8981\u7684\u8d58\u8ff0\u3002\u603b\u7ed3\u5e94\u63a7\u5236\u5728\u4e00\u6bb5\u8bdd\u5185\uff0c\u4e0d\u8d85\u8fc7\u56db\u53e5\u8bdd\uff0c\u5e76\u907f\u514d\u9648\u8bcd\u6ee5\u8c03\u3002\n\n\u6211\u5c06\u4ece\u516c\u5e73\u53d1\u5c55\u5f00\u59cb\uff0c\u7136\u540e\u8f6c\u5411\u8c28\u614e\u548c\u8d1f\u8d23\u4efb\u7684\u53d1\u5c55\uff0c\u6700\u540e\u6d89\u53ca\u73af\u5883\u53ef\u6301\u7eed\u6027\u3002\u6211\u9700\u8981\u786e\u4fdd\u6bcf\u4e2a\u90e8\u5206\u903b\u8f91\u4e0a\u81ea\u7136\u8854\u63a5\uff0c\u7a81\u51fa\u6bcf\u4e2a\u96c6\u7fa4\u7684\u4e3b\u8981\u5173\u5207\u4e0e\u5efa\u8bae\u3002\n\n\u6211\u8fd8\u9700\u8981\u786e\u4fdd\u603b\u7ed3\u53cd\u6620\u591a\u5143\u89c6\u89d2\uff0c\u5f3a\u8c03\u5168\u7403\u5408\u4f5c\u3001\u9053\u5fb7\u6846\u67b6\u4e0e\u53ef\u6301\u7eed\u5b9e\u8df5\u7684\u5fc5\u8981\u6027\u3002\u91cd\u8981\u7684\u662f\uff0c\u65e2\u8981\u7a81\u51fa\u4eba\u5de5\u667a\u80fd\u63a8\u52a8\u79ef\u6781\u53d8\u9769\u7684\u6f5c\u529b\uff0c\u4e5f\u8981\u5f3a\u8c03\u9700\u8981\u8c28\u614e\u7ba1\u7406\u4ee5\u51cf\u8f7b\u98ce\u9669\u3002\n\n\u6700\u540e\uff0c\u6211\u5c06\u901a\u8bfb\u603b\u7ed3\uff0c\u786e\u4fdd\u7b80\u6d01\u660e\u4e86\uff0c\u907f\u514d\u4f7f\u7528\u884c\u8bdd\uff0c\u5e76\u51c6\u786e\u53cd\u6620\u516c\u5171\u54a8\u8be2\u7684\u7ed3\u679c\u3002",
+      "AI\u30ac\u30d0\u30ca\u30f3\u30b9\u306b\u95a2\u3059\u308b\u516c\u7684\u30b3\u30f3\u30b5\u30eb\u30c6\u30a3\u30f3\u30b0\u306e\u7d50\u679c\u306f\u3001\u4e09\u3064\u306e\u4e3b\u8981\u306a\u30af\u30e9\u30b9\u30bf\u30fc\u3092\u660e\u3089\u304b\u306b\u3057\u305f\u3002\u307e\u305a\u3001\u516c\u5e73\u306a\u958b\u767a\u3068\u5c55\u958b\u306b\u304a\u3044\u3066\u306f\u3001AI\u3092\u5168\u7403\u7684\u306a\u6c11\u4e3b\u4e3b\u7fa9\u306e\u539f\u5247\u306b\u305d\u308f\u305b\u3001\u5229\u76ca\u3068\u30ea\u30b9\u30af\u3092\u516c\u5e73\u306b\u5206\u914d\u3057\u3001\u793e\u4f1a\u7684\u8ab2\u984c\u3092\u5229\u76ca\u3088\u308a\u3082\u512a\u5148\u3057\u3001\u5168\u7403\u7684\u306a\u57fa\u6e96\u3068\u5730\u57df\u7279\u6027\u306e\u30d0\u30e9\u30f3\u30b9\u3092\u53d6\u308b\u3053\u3068\u304c\u91cd\u8981\u3067\u3042\u308b\u3002\u6b21\u306b\u3001\u614e\u91cd\u3067\u8cac\u4efb\u3042\u308b\u958b\u767a\u306b\u304a\u3044\u3066\u306f\u3001AI\u306e\u6c7a\u5b9a\u306b\u4eba\u9593\u306e\u76e3\u7763\u3092\u7f6e\u304f\u5fc5\u8981\u6027\u3001\u74b0\u5883\u554f\u984c\u306b\u95a2\u3057\u3066\u7279\u306b\u6ce8\u610f\u3092\u6255\u3046\u5fc5\u8981\u6027\u3001\u958b\u767a\u8005\u306e\u502b\u7406\u7684\u8cac\u4efb\u3001\u7dcf\u5408\u7684\u306a\u30ea\u30b9\u30af\u8a55\u4fa1\u3001\u30c7\u30fc\u30bf\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u5236\u3001AI\u306e\u9650\u754c\u306b\u95a2\u3059\u308b\u4e00\u822c\u6559\u80b2\u3001\u65b9\u6cd5\u8ad6\u306e\u900f\u660e\u6027\u304c\u5f37\u8abf\u3055\u308c\u308b\u3002\u6700\u5f8c\u306b\u3001\u74b0\u5883\u3078\u306e\u5f71\u97ff\u3068\u6301\u7d9a\u53ef\u80fd\u6027\u306b\u304a\u3044\u3066\u306f\u3001\u6b63\u7fa9\u3068\u74b0\u5883\u4fdd\u8b77\u3092\u512a\u5148\u3057\u3001\u74b0\u5883\u5c02\u9580\u5bb6\u3092\u30ac\u30d0\u30ca\u30f3\u30b9\u306b\u53c2\u52a0\u3055\u305b\u308b\u5fc5\u8981\u6027\u3001AI\u3092\u7528\u3044\u305f\u74b0\u5883\u8db3\u8de1\u306e\u76e3\u8996\u3068\u524a\u6e1b\u3001\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u8a55\u4fa1\u3001\u6301\u7d9a\u53ef\u80fd\u306a\u8a2d\u8a08\u3001\u30a8\u30cd\u30eb\u30ae\u30fc\u52b9\u7387\u6027\u3001\u666e\u904d\u7684\u306a\u502b\u7406\u7684\u67a0\u7d44\u307f\u3001\u5168\u7403\u7684\u306a\u5354\u529b\u3001\u6700\u9069\u5316\u3068\u6d88\u8cbb\u306e\u30d0\u30e9\u30f3\u30b9\u3092\u53d6\u308b\u3053\u3068\u304c\u91cd\u8981\u3067\u3042\u308b\u3002\u3053\u308c\u3089\u306e\u767a\u898b\u306f\u3001\u4eba\u9593\u306e\u5e78\u798f\u3068\u74b0\u5883\u4fdd\u8b77\u3092\u512a\u5148\u3057\u3001\u540c\u6642\u306bAI\u306e\u6f5c\u5728\u7684\u306a\u6b63\u306e\u5909\u5316\u3092\u6d3b\u7528\u3059\u308b\u305f\u3081\u306e\u3001\u5305\u62ec\u7684\u3067\u502b\u7406\u7684\u3067\u6301\u7d9a\u53ef\u80fd\u306aAI\u30ac\u30d0\u30ca\u30f3\u30b9\u306e\u5fc5\u8981\u6027\u3092\u5f37\u8abf\u3057\u3066\u3044\u308b\u3002"
+    ],
+    "This AI-generated report relies on data from a Polis consultation run by the Recursive Public team.": [
+      "\u8fd9\u4efd\u7531\u4eba\u5de5\u667a\u80fd\u751f\u6210\u7684\u62a5\u544a\u4f9d\u8d56\u4e8ePolis\u54a8\u8be2\u5e73\u53f0\u7684\u6570\u636e\uff0c\u7531\u9012\u5f52\u516c\u5171\u56e2\u961f\u8fdb\u884c\u7684.",
+      "\u3053\u306eAI\u304c\u751f\u6210\u3057\u305f\u30ec\u30dd\u30fc\u30c8\u306f\u3001\u30ec\u30ab\u30fc\u30b7\u30d6\u30fb\u30d1\u30d6\u30ea\u30c3\u30af\u30c1\u30fc\u30e0\u304c\u5b9f\u65bd\u3057\u305f\u30dd\u30ea\u30b9\u30fb\u30b3\u30f3\u30b5\u30eb\u30c6\u30fc\u30b7\u30e7\u30f3\uff08Polis consultation\uff09\u30c7\u30fc\u30bf\u306b\u4f9d\u5b58\u3057\u3066\u3044\u307e\u3059\u3002"
+    ]
+  },
+  "overview": "<think>\nOkay, I need to summarize the findings of the public consultation on AI governance. The clusters identified are Equitable Development and Deployment, Cautious and Responsible Development, and Environmental Impact and Sustainability. Each cluster has its own set of key points that need to be included in the summary.\n\nFirst, for Equitable Development and Deployment, the main ideas are aligning AI with democratic principles globally, ensuring equitable distribution of benefits and risks, prioritizing societal challenges over profit, and the need for localized regulations alongside global standards. Also, inclusive governance involving diverse stakeholders and public education on AI capabilities are important points.\n\nNext, Cautious and Responsible Development emphasizes human oversight in AI decision-making, especially for environmental issues. It also stresses the need for careful consideration to avoid rushing into deployments, ethical responsibility among developers, comprehensive risk assessments, data privacy regulations, public education on AI's limitations, and transparency in AI methodologies.\n\nLastly, Environmental Impact and Sustainability focuses on prioritizing justice and environmental stewardship, involving environmental representatives in AI governance, using AI to monitor and reduce environmental footprints, conducting life cycle assessments, sustainable design, energy efficiency, a universal ethical framework, global cooperation, and the balance between optimization and consumption.\n\nNow, I need to condense all these points into a concise summary that captures the essence of each cluster without being too wordy. I should ensure that each key theme is represented clearly and succinctly, avoiding any unnecessary fluff. The summary should be one paragraph with no more than four sentences and must avoid platitudes.\n\nI'll start by addressing equitable development, then move to cautious and responsible development, and finally touch on environmental sustainability. I need to make sure each part flows logically into the next, highlighting the main concerns and recommendations from each cluster.\n\nI should also ensure that the summary reflects the diversity of perspectives, emphasizing the need for global cooperation, ethical frameworks, and sustainable practices. It's important to highlight both the potential of AI to drive positive change and the need for careful management to mitigate risks.\n\nFinally, I'll review the summary to make sure it's concise, clear, and free of jargon, ensuring that it accurately represents the findings from the public consultation.\n</think>\n\nThe public consultation on AI governance revealed three key clusters of findings. First, equitable development and deployment emphasize aligning AI with global democratic principles, ensuring fair distribution of benefits and risks, prioritizing societal challenges over profit, and balancing global standards with localized regulations. Second, cautious and responsible development highlights the need for human oversight, careful consideration to avoid harmful consequences, ethical responsibility among developers, comprehensive risk assessments, data privacy regulations, public education on AI limitations, and transparency in methodologies. Finally, environmental impact and sustainability stress the importance of prioritizing justice and environmental stewardship, involving environmental experts in governance, using AI to monitor and reduce ecological footprints, conducting life cycle assessments, designing sustainable systems, promoting energy efficiency, establishing a universal ethical framework, fostering global cooperation, and addressing the balance between optimization and consumption. These findings underscore the need for a holistic, ethical, and sustainable approach to AI governance that prioritizes human well-being and environmental protection while leveraging AI's potential for positive change.",
+  "config": {
+    "name": "Recursive Public, Agenda Setting",
+    "question": "What should be top of the agenda as humanity develops and deploys artificial intelligence?",
+    "input": "example-polis",
+    "model": "deepseek-r1-distill-llama-70b",
+    "extraction": {
+      "workers": 3,
+      "limit": 25,
+      "source_code": "import os\nimport json\nfrom tqdm import tqdm\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\nimport concurrent.futures\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef extraction(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/args.csv\"\n    comments = pd.read_csv(f\"inputs/{config['input']}.csv\")\n\n    model = config['extraction']['model']\n    prompt = config['extraction']['prompt']\n    workers = config['extraction']['workers']\n    limit = config['extraction']['limit']\n\n    comment_ids = (comments['comment-id'].values)[:limit]\n    comments.set_index('comment-id', inplace=True)\n    results = pd.DataFrame()\n    update_progress(config, total=len(comment_ids))\n    for i in tqdm(range(0, len(comment_ids), workers)):\n        batch = comment_ids[i: i + workers]\n        batch_inputs = [comments.loc[id]['comment-body'] for id in batch]\n        batch_results = extract_batch(batch_inputs, prompt, model, workers)\n        for comment_id, extracted_args in zip(batch, batch_results):\n            for j, arg in enumerate(extracted_args):\n                new_row = {\"arg-id\": f\"A{comment_id}_{j}\",\n                           \"comment-id\": int(comment_id), \"argument\": arg}\n                results = pd.concat(\n                    [results, pd.DataFrame([new_row])], ignore_index=True)\n        update_progress(config, incr=len(batch))\n    results.to_csv(path, index=False)\n\n\ndef extract_batch(batch, prompt, model, workers):\n    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:\n        futures = [executor.submit(\n            extract_arguments, input, prompt, model) for input in list(batch)]\n        concurrent.futures.wait(futures)\n        return [future.result() for future in futures]\n\n\ndef extract_arguments(input, prompt, model, retries=3):\n    #llm = ChatOpenAI(model_name=model, temperature=0.0)\n    # llm = client(model_name='deepseek-r1-distill-llama-70b', temperature=0.0)\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n\n    try:\n        if '[' in response and ']' in response:\n            start_idx = response.rindex('[')\n            end_idx = response.rindex(']')\n            json_str = response[start_idx:end_idx+1]\n                \n            obj = json.loads(json_str)\n            # LLM sometimes returns valid JSON string\n            if isinstance(obj, str):\n                obj = [obj]\n            items = [a.strip() for a in obj]\n            items = filter(None, items)  # omit empty strings\n            return items\n        else:\n            print(\"No JSON array found in response\")\n            if retries > 0:\n                print(\"Retrying...\")\n                return extract_arguments(input, prompt, model, retries - 1)\n            else:\n                return []\n    except json.decoder.JSONDecodeError as e:\n        print(\"JSON error:\", e)\n        print(\"Input was:\", input)\n        print(\"Response was:\", response)\n        if retries > 0:\n            print(\"Retrying...\")\n            return extract_arguments(input, prompt, model, retries - 1)\n        else:\n            print(\"Silently giving up on trying to generate valid list.\")\n            return []\n",
+      "prompt": "/system\n\nYou are a professional research assistant and your job is to help \nme prepare a nice and clean datasets of arguments. \n\nThe context is that we have run a public consultation on the \ntopic of artificial intelligence. I'm going to give you examples \nof arguments that were contributed by the public and I want you \nto help me make them more concise and easy to read. When really \nnecessary, you can also break it down into two separate arguments, \nbut it will often be best to return a single arguments. \n\nPlease return the result as a well-formatted JSON list of strings. \n\n/human\n\nAI technologies should be developed with a focus on reducing their own \nenvironmental impact over their lifecycle.\n\n/ai \n\n[\n  \"We should focus on reducing the environmental impact of AI technologies\"\n]\n\n/human \n\nThere should be a concerted effort to educate the public about the \ncapabilities, limitations, and ethical considerations of AI.\n\n/ai \n\n[\n  \"We should educate the public about the capabilities of AI\",\n  \"We should educate the public about the limitations and ethical considerations of AI\"\n]\n\n/human \n\nAI can optimize smart homes and buildings for energy efficiency and occupant wellbeing.\n\n/ ai \n\n[\n  \"AI can optimize smart homes and buildings for energy efficiency and occupant wellbeing.\"\n]\n\n/human \n\nAI can help optimize energy grids, reducing waste and carbon emissions.\n\n/ai \n\n[\n  \"AI could optimize energy grids to reduce waste and carbon emissions.\"\n]\n\n",
+      "model": "deepseek-r1-distill-llama-70b"
+    },
+    "clustering": {
+      "clusters": 3,
+      "source_code": "\"\"\"Cluster the arguments using UMAP + HDBSCAN and GPT-4.\"\"\"\n\nimport pandas as pd\nimport numpy as np\nfrom importlib import import_module\nimport os\n\n\ndef clustering(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/clusters.csv\"\n    arguments_df = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    arguments_array = arguments_df[\"argument\"].values\n\n    embeddings_df = pd.read_pickle(f\"outputs/{dataset}/embeddings.pkl\")\n    embeddings_array = np.asarray(embeddings_df[\"embedding\"].values.tolist())\n    clusters = config['clustering']['clusters']\n\n    result = cluster_embeddings(\n        docs=arguments_array,\n        embeddings=embeddings_array,\n        metadatas={\n            \"arg-id\": arguments_df[\"arg-id\"].values,\n            \"comment-id\": arguments_df[\"comment-id\"].values,\n        },\n        n_topics=clusters,\n    )\n    result.to_csv(path, index=False)\n\n\ndef cluster_embeddings(\n    docs,\n    embeddings,\n    metadatas,\n    min_cluster_size=2,\n    n_components=2,\n    n_topics=6,\n):\n    # (!) we import the following modules dynamically for a reason\n    # (they are slow to load and not required for all pipelines)\n    SpectralClustering = import_module('sklearn.cluster').SpectralClustering\n    stopwords = import_module('nltk.corpus').stopwords\n    HDBSCAN = import_module('hdbscan').HDBSCAN\n    UMAP = import_module('umap').UMAP\n    CountVectorizer = import_module(\n        'sklearn.feature_extraction.text').CountVectorizer\n    BERTopic = import_module('bertopic').BERTopic\n\n    umap_model = UMAP(\n        random_state=42,\n        n_components=n_components,\n    )\n    hdbscan_model = HDBSCAN(min_cluster_size=min_cluster_size)\n\n    stop = stopwords.words(\"english\")\n    vectorizer_model = CountVectorizer(stop_words=stop)\n    topic_model = BERTopic(\n        umap_model=umap_model,\n        hdbscan_model=hdbscan_model,\n        vectorizer_model=vectorizer_model,\n        verbose=True,\n    )\n\n    # Fit the topic model.\n    _, __ = topic_model.fit_transform(docs, embeddings=embeddings)\n\n    n_samples = len(embeddings)\n    n_neighbors = min(n_samples - 1, 10)\n    spectral_model = SpectralClustering(\n        n_clusters=n_topics,\n        affinity=\"nearest_neighbors\",\n        n_neighbors=n_neighbors,  # Use the modified n_neighbors\n        random_state=42\n    )\n    umap_embeds = umap_model.fit_transform(embeddings)\n    cluster_labels = spectral_model.fit_predict(umap_embeds)\n\n    result = topic_model.get_document_info(\n        docs=docs,\n        metadata={\n            **metadatas,\n            \"x\": umap_embeds[:, 0],\n            \"y\": umap_embeds[:, 1],\n        },\n    )\n\n    result.columns = [c.lower() for c in result.columns]\n    result = result[['arg-id', 'x', 'y', 'probability']]\n    result['cluster-id'] = cluster_labels\n\n    return result\n"
+    },
+    "translation": {
+      "model": "deepseek-r1-distill-llama-70b",
+      "languages": [
+        "Mandarin",
+        "Japanese"
+      ],
+      "flags": [
+        "TW",
+        "JP"
+      ],
+      "source_code": "\nimport json\nimport os\nfrom tqdm import tqdm\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages\nfrom langchain.schema import AIMessage\nimport pandas as pd\nimport json\nfrom tqdm import tqdm\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef translation(config):\n\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/translations.json\"\n    results = {}\n\n    languages = list(config.get('translation', {}).get('languages', []))\n    if len(languages) == 0:\n        print(\"No languages specified. Skipping translation step.\")\n        # creating an empty file any, to reduce special casing later\n        with open(path, 'w') as file:\n            json.dump(results, file, indent=2)\n        return\n\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    labels = pd.read_csv(f\"outputs/{dataset}/labels.csv\")\n    takeaways = pd.read_csv(f\"outputs/{dataset}/takeaways.csv\")\n    with open(f\"outputs/{dataset}/overview.txt\") as f:\n        overview = f.read()\n\n    UI_copy = [\"Argument\", \"Original comment\", \"Representative arguments\",\n               \"Open full-screen map\", \"Back to report\", \"Hide labels\", \"Show labels\",\n               \"Show filters\", \"Hide filters\", \"Min. votes\", \"Consensus\",\n               \"Showing\", \"arguments\", \"Reset zoom\", \"Click anywhere on the map to close this\",\n               \"Click on the dot for details\",\n               \"agree\", \"disagree\", \"Language\", \"English\", \"arguments\", \"of total\",\n               \"Overview\", \"Cluster analysis\", \"Representative comments\", \"Introduction\",\n               \"Clusters\", \"Appendix\", \"This report was generated using an AI pipeline that consists of the following steps\",\n               \"Step\", \"extraction\", \"show code\", \"hide code\", \"show prompt\", \"hide prompt\", \"embedding\",\n               \"clustering\", \"labelling\", \"takeaways\", \"overview\"]\n\n    arg_list = arguments['argument'].to_list() + \\\n        labels['label'].to_list() + \\\n        UI_copy + \\\n        languages\n\n    if 'name' in config:\n        arg_list.append(config['name'])\n    if 'question' in config:\n        arg_list.append(config['question'])\n\n    prompt_file = config.get('translation_prompt', 'default')\n    with open(f\"prompts/translation/{prompt_file}.txt\") as f:\n        prompt = f.read()\n    model = config['model']\n\n    config['translation_prompt'] = prompt\n\n    translations = [translate_lang(\n        arg_list, 10, prompt, lang, model) for lang in languages]\n\n    # handling long takeaways differently, WITHOUT batching too much\n    long_arg_list = takeaways['takeaways'].to_list()\n    long_arg_list.append(overview)\n    if 'intro' in config:\n        long_arg_list.append(config['intro'])\n\n    long_translations = [translate_lang(\n        long_arg_list, 1, prompt, lang, model) for lang in languages]\n\n    for i, id in enumerate(arg_list):\n        print('i, id', i, id)\n        results[str(id)] = list([t[i] for t in translations])\n    for i, id in enumerate(long_arg_list):\n        results[str(id)] = list([t[i] for t in long_translations])\n\n    with open(path, 'w') as file:\n        json.dump(results, file, indent=2)\n\n\ndef translate_lang(arg_list, batch_size, prompt, lang, model):\n    translations = []\n    lang_prompt = prompt.replace(\"{language}\", lang)\n    print(f\"Translating to {lang}...\")\n    for i in tqdm(range(0, len(arg_list), batch_size)):\n        batch = arg_list[i: i + batch_size]\n        translations.extend(translate_batch(batch, lang_prompt, model))\n    return translations\n\n\ndef translate_batch(batch, lang_prompt, model, retries=3):\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    input = json.dumps(list(batch))\n    # response = llm(messages=messages(lang_prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(lang_prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n    if \"```\" in response:\n        response = response.split(\"```\")[1]\n    if response.startswith(\"json\"):\n        response = response[4:]\n    try:\n        if '[' in response and ']' in response:\n            start_idx = response.rindex('[')\n            end_idx = response.rindex(']')\n            json_str = response[start_idx:end_idx+1]\n                \n            parsed = [a.strip() for a in json.loads(json_str)]\n            if len(parsed) != len(batch):\n                print(\"Warning: batch size mismatch!\")\n                print(\"Batch len:\", len(batch))\n                print(\"Response len:\", len(parsed))\n                for i, item in enumerate(batch):\n                    print(f\"Batch item {i}:\", item)\n                    if (i < len(parsed)):\n                        print(\"Response:\", parsed[i])\n                if (len(batch) > 1):\n                    print(\"Retrying with smaller batches...\")\n                    mid = len(batch) // 2\n                    return translate_batch(batch[:mid], lang_prompt, model, retries - 1) + \\\n                        translate_batch(\n                            batch[mid:], lang_prompt, model, retries - 1)\n                else:\n                    print(\"Retrying batch...\")\n                    return translate_batch(batch, lang_prompt, model, retries - 1)\n            else:\n                return parsed\n        else:\n            print(\"No JSON array found in response\")\n            if retries > 0:\n                print(\"Retrying...\")\n                return translate_batch(batch, lang_prompt, model, retries - 1)\n            else:\n                return []\n    except json.decoder.JSONDecodeError as e:\n        print(\"JSON error:\", e)\n        print(\"Response was:\", response)\n        if retries > 0:\n            print(\"Retrying batch...\")\n            return translate_batch(batch, lang_prompt, model, retries - 1)\n        else:\n            raise e\n",
+      "prompt": "/system \n\nYou are a professional translator.\nYou will receive a list of words and sentences written in English. \nPlease return the same list, in the same order, but translated to {language}.\nMake sure to return a valid JSON list of string of the same length as the original list."
+    },
+    "intro": "This AI-generated report relies on data from a Polis consultation run by the Recursive Public team.",
+    "output_dir": "ai01",
+    "embedding": {
+      "source_code": "\nfrom sentence_transformers import SentenceTransformer\nfrom langchain.embeddings import OpenAIEmbeddings\nimport pandas as pd\nfrom tqdm import tqdm\nimport os\n\nembed_model_name = 'paraphrase-multilingual-mpnet-base-v2'\nmodel = SentenceTransformer(embed_model_name)\n\ndef embedding(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/embeddings.pkl\"\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    embeddings = []\n    for i in tqdm(range(0, len(arguments), 1000)):\n        args = arguments[\"argument\"].tolist()[i: i + 1000]\n        # embeds = OpenAIEmbeddings().embed_documents(args)\n        embeds = model.encode(args, show_progress_bar=False).tolist()\n        embeddings.extend(embeds)\n    df = pd.DataFrame(\n        [\n            {\"arg-id\": arguments.iloc[i][\"arg-id\"], \"embedding\": e}\n            for i, e in enumerate(embeddings)\n        ]\n    )\n    df.to_pickle(path)\n"
+    },
+    "labelling": {
+      "sample_size": 30,
+      "source_code": "\"\"\"Create labels for the clusters.\"\"\"\n\nfrom tqdm import tqdm\nfrom typing import List\nimport numpy as np\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\nimport os\nimport re\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef labelling(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/labels.csv\"\n\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    clusters = pd.read_csv(f\"outputs/{dataset}/clusters.csv\")\n\n    results = pd.DataFrame()\n\n    sample_size = config['labelling']['sample_size']\n    prompt = config['labelling']['prompt']\n    model = config['labelling']['model']\n\n    question = config['question']\n    cluster_ids = clusters['cluster-id'].unique()\n\n    update_progress(config, total=len(cluster_ids))\n\n    for _, cluster_id in tqdm(enumerate(cluster_ids), total=len(cluster_ids)):\n        args_ids = clusters[clusters['cluster-id']\n                            == cluster_id]['arg-id'].values\n        args_ids = np.random.choice(args_ids, size=min(\n            len(args_ids), sample_size), replace=False)\n        args_sample = arguments[arguments['arg-id']\n                                .isin(args_ids)]['argument'].values\n\n        args_ids_outside = clusters[clusters['cluster-id']\n                                    != cluster_id]['arg-id'].values\n        args_ids_outside = np.random.choice(args_ids_outside, size=min(\n            len(args_ids_outside), sample_size), replace=False)\n        args_sample_outside = arguments[arguments['arg-id']\n                                        .isin(args_ids_outside)]['argument'].values\n\n        label = generate_label(question, args_sample,\n                               args_sample_outside, prompt, model)\n        results = pd.concat([results, pd.DataFrame(\n            [{'cluster-id': cluster_id, 'label': label}])], ignore_index=True)\n        update_progress(config, incr=1)\n\n    results.to_csv(path, index=False)\n\n\ndef generate_label(question, args_sample, args_sample_outside, prompt, model, retries=3):\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    \n    outside = '\\n * ' + '\\n * '.join(args_sample_outside)\n    inside = '\\n * ' + '\\n * '.join(args_sample)\n    input = f\"Question of the consultation:{question}\\n\\n\" + \\\n        f\"Examples of arguments OUTSIDE the cluster:\\n {outside}\" + \\\n        f\"Examples of arguments INSIDE the cluster:\\n {inside}\"\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n    final_answer = extract_answer(response)\n    return final_answer\n\ndef extract_answer(response):\n    # \u67e5\u627e <answer> \u6807\u7b7e\u4e4b\u95f4\u7684\u5185\u5bb9\n    pattern = r'<answer>(.*?)</answer>'\n    match = re.search(pattern, response, re.DOTALL)\n    if match:\n        return match.group(1).strip()\n    return response",
+      "prompt": "/system \n\nYou are a category labeling assistant that generates a category label \nfor a set of arguments within a broader consultation. You are given the main question \nof the consultation, list of arguments inside the cluster, and a list of arguments \noutside this cluster. You answer with a single category label that summarizes the \ncluster. \n\nYou do not include context that is already obvious from the question (for example: \nif the question of the consultation is something like \"what challenges are you facing \nin France\", there is no need to repeat \"in France\" in the cluster label).\n\nThe label must be very concise and just precise enough to capture what distinguishes \nthe cluster from the arguments found outside. \n\nIMPORTANT: You must format your response using XML tags as follows:\n<answer>Your category label here</answer>\n\n/human\n\nQuestion of the consultation: \"What do you think has been the impact of the UK decision to leave the EU?\"\n\nExamples of arguments OUTSIDE the cluster of interest:\n\n * We faced limitations in educational and cultural exchange opportunities due to exclusion from the Erasmus program.\n * The UK dealt with longer travel times caused by increased border checks, affecting commuters and vacationers.\n * We saw reduced cooperation in environmental standards, hindering efforts to combat climate change.\n * I experienced challenges in patient care due to disruptions in reciprocal healthcare agreements.\n * We faced complexity in residency and citizenship applications for families due to Brexit-related changes.\n * The UK witnessed hindrance in global efforts to address research challenges due to reduced collaboration opportunities.\n * We faced limitations in creative projects due to exclusion from EU cultural funding programs.\n * The UK witnessed setbacks in charitable initiatives and community support due to the loss of EU funding.\n * We experienced challenges in cross-border dispute resolution due to weakened consumer protections.\n * The UK faced limitations in touring EU countries as professional musicians, impacting careers.\n\nExamples of arguments inside the cluster:\n\n * We experienced supply chain disruptions due to Brexit, leading to increased costs and delayed deliveries for businesses.\n * I faced market fluctuations and uncertainties in investments and retirement savings because of Brexit.\n * The UK dealt with reduced profit margins as an exporter due to new tariffs and customs procedures.\n * We lost jobs because companies relocated operations to stay within the EU market post-Brexit.\n * The UK struggled with the increased cost of living caused by skyrocketing prices of imported goods.\n * We witnessed a decline in investment in the UK tech sector, impacting innovation and job opportunities.\n * The UK saw a decline in tourism due to new visa regulations, affecting hospitality businesses.\n * I experienced reduced purchasing power and increased travel expenses due to the drop in the pound's value.\n\n/ai \n\n<answer>\nNegative Financial Impact\n</answer>",
+      "model": "deepseek-r1-distill-llama-70b"
+    },
+    "takeaways": {
+      "sample_size": 30,
+      "source_code": "\"\"\"Create summaries for the clusters.\"\"\"\n\nfrom tqdm import tqdm\nimport os\nfrom typing import List\nimport numpy as np\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef takeaways(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/takeaways.csv\"\n\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    clusters = pd.read_csv(f\"outputs/{dataset}/clusters.csv\")\n\n    results = pd.DataFrame()\n\n    sample_size = config['takeaways']['sample_size']\n    prompt = config['takeaways']['prompt']\n    model = config['takeaways']['model']\n\n    model = config.get('model_takeaways', config.get('model', 'gpt3.5-turbo'))\n    cluster_ids = clusters['cluster-id'].unique()\n\n    update_progress(config, total=len(cluster_ids))\n\n    for _, cluster_id in tqdm(enumerate(cluster_ids), total=len(cluster_ids)):\n        args_ids = clusters[clusters['cluster-id']\n                            == cluster_id]['arg-id'].values\n        args_ids = np.random.choice(args_ids, size=min(\n            len(args_ids), sample_size), replace=False)\n        args_sample = arguments[arguments['arg-id']\n                                .isin(args_ids)]['argument'].values\n        label = generate_takeaways(args_sample, prompt, model)\n        results = pd.concat([results, pd.DataFrame(\n            [{'cluster-id': cluster_id, 'takeaways': label}])], ignore_index=True)\n        update_progress(config, incr=1)\n\n    results.to_csv(path, index=False)\n\n\ndef generate_takeaways(args_sample, prompt, model):\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    input = \"\\n\".join(args_sample)\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    return response\n",
+      "prompt": "/system \n\nYou are an expert research assistant working in a think tank. You will be given a list of arguments that have been made by a cluster of participants during a public consultation. You respond with one or two paragraphs summarizing your main takeaways. You are very concise and write short, snappy sentences which are easy to read. \n \n/human\n\n[\n  \"I firmly believe that gun violence constitutes a severe public health crisis in our society.\",\n  \"We need to address this issue urgently through comprehensive gun control measures.\", \n  \"I support the implementation of universal background checks for all gun buyers\",\n  \"I am in favor of banning assault weapons and high-capacity magazines.\",\n  \"I advocate for stricter regulations to prevent illegal gun trafficking.\",\n  \"Mental health evaluations should be a mandatory part of the gun purchasing process.\"\n]\n\n/ai \n\nParticipants called for comprehensive gun control, emphasizing universal background checks, assault weapon bans, curbing illegal gun trafficking, and prioritizing mental health evaluations.",
+      "model": "deepseek-r1-distill-llama-70b"
+    },
+    "overview": {
+      "source_code": "\"\"\"Create summaries for the clusters.\"\"\"\n\nfrom tqdm import tqdm\nimport os\nfrom typing import List\nimport numpy as np\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef overview(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/overview.txt\"\n\n    takeaways = pd.read_csv(f\"outputs/{dataset}/takeaways.csv\")\n    labels = pd.read_csv(f\"outputs/{dataset}/labels.csv\")\n\n    prompt = config['overview']['prompt']\n    model = config['overview']['model']\n\n    ids = labels['cluster-id'].to_list()\n    takeaways.set_index('cluster-id', inplace=True)\n    labels.set_index('cluster-id', inplace=True)\n\n    input = ''\n    for i, id in enumerate(ids):\n        input += f\"# Cluster {i}/{len(ids)}: {labels.loc[id]['label']}\\n\\n\"\n        input += takeaways.loc[id]['takeaways'] + '\\n\\n'\n\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n\n    with open(path, 'w') as file:\n        file.write(response)\n",
+      "prompt": "/system \n\nYou are an expert research assistant working in a think tank. \nYour team has run a public consultation on a given topic and has \nstarted to analyze what the different cluster of options are. \nYou will now receive the list of clusters with a brief \nanalysis of each cluster. Your job is to return a short summary of what \nthe findings were. Your summary must be very concise (at most one \nparagraph, containing at most four sentences) and you must avoid platitudes. ",
+      "model": "deepseek-r1-distill-llama-70b"
+    },
+    "aggregation": {
+      "source_code": "\"\"\"Generate a convenient JSON output file.\"\"\"\n\nfrom tqdm import tqdm\nfrom typing import List\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nimport json\nimport os\n\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef aggregation(config):\n\n    path = f\"outputs/{config['output_dir']}/result.json\"\n\n    results = {\n        \"clusters\": [],\n        \"comments\": {},\n        \"translations\": {},\n        \"overview\": \"\",\n        \"config\": config,\n    }\n\n    arguments = pd.read_csv(f\"outputs/{config['output_dir']}/args.csv\")\n    arguments.set_index('arg-id', inplace=True)\n\n    comments = pd.read_csv(f\"inputs/{config['input']}.csv\")\n    useful_comment_ids = set(arguments['comment-id'].values)\n    for _, row in comments.iterrows():\n        id = row['comment-id']\n        if id in useful_comment_ids:\n            res = {'comment': row['comment-body']}\n            numeric_cols = ['agrees', 'disagrees']\n            string_cols = ['video', 'interview', 'timestamp']\n            for col in numeric_cols:\n                if col in row:\n                    res[col] = float(row[col])\n            for col in string_cols:\n                if col in row:\n                    res[col] = row[col]\n            results['comments'][str(id)] = res\n\n    languages = list(config.get('translation', {}).get('languages', []))\n    if len(languages) > 0:\n        with open(f\"outputs/{config['output_dir']}/translations.json\") as f:\n            translations = f.read()\n        results['translations'] = json.loads(translations)\n\n    clusters = pd.read_csv(f\"outputs/{config['output_dir']}/clusters.csv\")\n    labels = pd.read_csv(f\"outputs/{config['output_dir']}/labels.csv\")\n    takeaways = pd.read_csv(f\"outputs/{config['output_dir']}/takeaways.csv\")\n    takeaways.set_index('cluster-id', inplace=True)\n\n    with open(f\"outputs/{config['output_dir']}/overview.txt\") as f:\n        overview = f.read()\n    results['overview'] = overview\n\n    for _, row in labels.iterrows():\n        cid = row['cluster-id']\n        label = row['label']\n        arg_rows = clusters[clusters['cluster-id'] == cid]\n        arguments_in_cluster = []\n        for _, arg_row in arg_rows.iterrows():\n            arg_id = arg_row['arg-id']\n            argument = arguments.loc[arg_id]['argument']\n            comment_id = arguments.loc[arg_id]['comment-id']\n            x = float(arg_row['x'])\n            y = float(arg_row['y'])\n            p = float(arg_row['probability'])\n            obj = {\n                'arg_id': arg_id,\n                'argument': argument,\n                'comment_id': str(comment_id),\n                'x': x,\n                'y': y,\n                'p': p,\n            }\n            arguments_in_cluster.append(obj)\n        results['clusters'].append({\n            'cluster': label,\n            'cluster_id': str(cid),\n            'takeaways': takeaways.loc[cid]['takeaways'],\n            'arguments': arguments_in_cluster\n        })\n\n    with open(path, 'w') as file:\n        json.dump(results, file, indent=2)\n"
+    },
+    "visualization": {
+      "replacements": [],
+      "source_code": "\nimport subprocess\nimport json\nimport os\n# def visualization(config):\n#     output_dir = config['output_dir']\n#     with open(f\"outputs/{output_dir}/result.json\") as f:\n#         result = f.read()\n\n#     cwd = \"../next-app\"\n#     command = f\"REPORT={output_dir} npm run build\"\n\n#     try:\n#         process = subprocess.Popen(command, shell=True, cwd=cwd, stdout=subprocess.PIPE,\n#                                    stderr=subprocess.PIPE, universal_newlines=True)\n#         while True:\n#             output_line = process.stdout.readline()\n#             if output_line == '' and process.poll() is not None:\n#                 break\n#             if output_line:\n#                 print(output_line.strip())\n#         process.wait()\n#         errors = process.stderr.read()\n#         if errors:\n#             print(\"Errors:\")\n#             print(errors)\n#     except subprocess.CalledProcessError as e:\n#         print(\"Error: \", e)\n\ndef visualization(config):\n    output_dir = config['output_dir']\n    \n    try:\n        # 1. \u8bfb\u53d6\u6570\u636e\n        with open(f\"outputs/{output_dir}/result.json\") as f:\n            result = json.load(f)\n        \n        # 2. \u5904\u7406\u6570\u636e\uff08\u5982\u679c\u9700\u8981\u7684\u8bdd\uff09\n        visualization_data = process_for_visualization(result)\n        \n        # 3. \u4fdd\u5b58\u5904\u7406\u540e\u7684\u6570\u636e\n        output_path = f\"outputs/{output_dir}\"\n        \n        with open(f\"{output_path}/visualization.json\", 'w') as f:\n            json.dump(visualization_data, f, indent=2)\n            \n    except Exception as e:\n        print(f\"Error in visualization: {e}\")\n        raise\n\ndef process_for_visualization(data):\n    \"\"\"\u5904\u7406\u6570\u636e\u4e3a\u53ef\u89c6\u5316\u6240\u9700\u7684\u683c\u5f0f\"\"\"\n    # \u5728\u8fd9\u91cc\u6dfb\u52a0\u4efb\u4f55\u5fc5\u8981\u7684\u6570\u636e\u8f6c\u6362\u903b\u8f91\n    return data"
+    },
+    "plan": [
+      {
+        "step": "extraction",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "embedding",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "clustering",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "labelling",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "takeaways",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "overview",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "translation",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "aggregation",
+        "run": true,
+        "reason": "not trace of previous run"
+      },
+      {
+        "step": "visualization",
+        "run": true,
+        "reason": "not trace of previous run"
+      }
+    ],
+    "status": "running",
+    "start_time": "2025-02-03T09:07:22.841974",
+    "completed_jobs": [
+      {
+        "step": "extraction",
+        "completed": "2025-02-03T09:09:49.319236",
+        "duration": 146.473357,
+        "params": {
+          "workers": 3,
+          "limit": 25,
+          "source_code": "import os\nimport json\nfrom tqdm import tqdm\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\nimport concurrent.futures\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef extraction(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/args.csv\"\n    comments = pd.read_csv(f\"inputs/{config['input']}.csv\")\n\n    model = config['extraction']['model']\n    prompt = config['extraction']['prompt']\n    workers = config['extraction']['workers']\n    limit = config['extraction']['limit']\n\n    comment_ids = (comments['comment-id'].values)[:limit]\n    comments.set_index('comment-id', inplace=True)\n    results = pd.DataFrame()\n    update_progress(config, total=len(comment_ids))\n    for i in tqdm(range(0, len(comment_ids), workers)):\n        batch = comment_ids[i: i + workers]\n        batch_inputs = [comments.loc[id]['comment-body'] for id in batch]\n        batch_results = extract_batch(batch_inputs, prompt, model, workers)\n        for comment_id, extracted_args in zip(batch, batch_results):\n            for j, arg in enumerate(extracted_args):\n                new_row = {\"arg-id\": f\"A{comment_id}_{j}\",\n                           \"comment-id\": int(comment_id), \"argument\": arg}\n                results = pd.concat(\n                    [results, pd.DataFrame([new_row])], ignore_index=True)\n        update_progress(config, incr=len(batch))\n    results.to_csv(path, index=False)\n\n\ndef extract_batch(batch, prompt, model, workers):\n    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:\n        futures = [executor.submit(\n            extract_arguments, input, prompt, model) for input in list(batch)]\n        concurrent.futures.wait(futures)\n        return [future.result() for future in futures]\n\n\ndef extract_arguments(input, prompt, model, retries=3):\n    #llm = ChatOpenAI(model_name=model, temperature=0.0)\n    # llm = client(model_name='deepseek-r1-distill-llama-70b', temperature=0.0)\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n\n    try:\n        if '[' in response and ']' in response:\n            start_idx = response.rindex('[')\n            end_idx = response.rindex(']')\n            json_str = response[start_idx:end_idx+1]\n                \n            obj = json.loads(json_str)\n            # LLM sometimes returns valid JSON string\n            if isinstance(obj, str):\n                obj = [obj]\n            items = [a.strip() for a in obj]\n            items = filter(None, items)  # omit empty strings\n            return items\n        else:\n            print(\"No JSON array found in response\")\n            if retries > 0:\n                print(\"Retrying...\")\n                return extract_arguments(input, prompt, model, retries - 1)\n            else:\n                return []\n    except json.decoder.JSONDecodeError as e:\n        print(\"JSON error:\", e)\n        print(\"Input was:\", input)\n        print(\"Response was:\", response)\n        if retries > 0:\n            print(\"Retrying...\")\n            return extract_arguments(input, prompt, model, retries - 1)\n        else:\n            print(\"Silently giving up on trying to generate valid list.\")\n            return []\n",
+          "prompt": "/system\n\nYou are a professional research assistant and your job is to help \nme prepare a nice and clean datasets of arguments. \n\nThe context is that we have run a public consultation on the \ntopic of artificial intelligence. I'm going to give you examples \nof arguments that were contributed by the public and I want you \nto help me make them more concise and easy to read. When really \nnecessary, you can also break it down into two separate arguments, \nbut it will often be best to return a single arguments. \n\nPlease return the result as a well-formatted JSON list of strings. \n\n/human\n\nAI technologies should be developed with a focus on reducing their own \nenvironmental impact over their lifecycle.\n\n/ai \n\n[\n  \"We should focus on reducing the environmental impact of AI technologies\"\n]\n\n/human \n\nThere should be a concerted effort to educate the public about the \ncapabilities, limitations, and ethical considerations of AI.\n\n/ai \n\n[\n  \"We should educate the public about the capabilities of AI\",\n  \"We should educate the public about the limitations and ethical considerations of AI\"\n]\n\n/human \n\nAI can optimize smart homes and buildings for energy efficiency and occupant wellbeing.\n\n/ ai \n\n[\n  \"AI can optimize smart homes and buildings for energy efficiency and occupant wellbeing.\"\n]\n\n/human \n\nAI can help optimize energy grids, reducing waste and carbon emissions.\n\n/ai \n\n[\n  \"AI could optimize energy grids to reduce waste and carbon emissions.\"\n]\n\n",
+          "model": "deepseek-r1-distill-llama-70b"
+        }
+      },
+      {
+        "step": "embedding",
+        "completed": "2025-02-03T09:09:49.878722",
+        "duration": 0.555185,
+        "params": {
+          "source_code": "\nfrom sentence_transformers import SentenceTransformer\nfrom langchain.embeddings import OpenAIEmbeddings\nimport pandas as pd\nfrom tqdm import tqdm\nimport os\n\nembed_model_name = 'paraphrase-multilingual-mpnet-base-v2'\nmodel = SentenceTransformer(embed_model_name)\n\ndef embedding(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/embeddings.pkl\"\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    embeddings = []\n    for i in tqdm(range(0, len(arguments), 1000)):\n        args = arguments[\"argument\"].tolist()[i: i + 1000]\n        # embeds = OpenAIEmbeddings().embed_documents(args)\n        embeds = model.encode(args, show_progress_bar=False).tolist()\n        embeddings.extend(embeds)\n    df = pd.DataFrame(\n        [\n            {\"arg-id\": arguments.iloc[i][\"arg-id\"], \"embedding\": e}\n            for i, e in enumerate(embeddings)\n        ]\n    )\n    df.to_pickle(path)\n"
+        }
+      },
+      {
+        "step": "clustering",
+        "completed": "2025-02-03T09:10:04.599569",
+        "duration": 14.717029,
+        "params": {
+          "clusters": 3,
+          "source_code": "\"\"\"Cluster the arguments using UMAP + HDBSCAN and GPT-4.\"\"\"\n\nimport pandas as pd\nimport numpy as np\nfrom importlib import import_module\nimport os\n\n\ndef clustering(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/clusters.csv\"\n    arguments_df = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    arguments_array = arguments_df[\"argument\"].values\n\n    embeddings_df = pd.read_pickle(f\"outputs/{dataset}/embeddings.pkl\")\n    embeddings_array = np.asarray(embeddings_df[\"embedding\"].values.tolist())\n    clusters = config['clustering']['clusters']\n\n    result = cluster_embeddings(\n        docs=arguments_array,\n        embeddings=embeddings_array,\n        metadatas={\n            \"arg-id\": arguments_df[\"arg-id\"].values,\n            \"comment-id\": arguments_df[\"comment-id\"].values,\n        },\n        n_topics=clusters,\n    )\n    result.to_csv(path, index=False)\n\n\ndef cluster_embeddings(\n    docs,\n    embeddings,\n    metadatas,\n    min_cluster_size=2,\n    n_components=2,\n    n_topics=6,\n):\n    # (!) we import the following modules dynamically for a reason\n    # (they are slow to load and not required for all pipelines)\n    SpectralClustering = import_module('sklearn.cluster').SpectralClustering\n    stopwords = import_module('nltk.corpus').stopwords\n    HDBSCAN = import_module('hdbscan').HDBSCAN\n    UMAP = import_module('umap').UMAP\n    CountVectorizer = import_module(\n        'sklearn.feature_extraction.text').CountVectorizer\n    BERTopic = import_module('bertopic').BERTopic\n\n    umap_model = UMAP(\n        random_state=42,\n        n_components=n_components,\n    )\n    hdbscan_model = HDBSCAN(min_cluster_size=min_cluster_size)\n\n    stop = stopwords.words(\"english\")\n    vectorizer_model = CountVectorizer(stop_words=stop)\n    topic_model = BERTopic(\n        umap_model=umap_model,\n        hdbscan_model=hdbscan_model,\n        vectorizer_model=vectorizer_model,\n        verbose=True,\n    )\n\n    # Fit the topic model.\n    _, __ = topic_model.fit_transform(docs, embeddings=embeddings)\n\n    n_samples = len(embeddings)\n    n_neighbors = min(n_samples - 1, 10)\n    spectral_model = SpectralClustering(\n        n_clusters=n_topics,\n        affinity=\"nearest_neighbors\",\n        n_neighbors=n_neighbors,  # Use the modified n_neighbors\n        random_state=42\n    )\n    umap_embeds = umap_model.fit_transform(embeddings)\n    cluster_labels = spectral_model.fit_predict(umap_embeds)\n\n    result = topic_model.get_document_info(\n        docs=docs,\n        metadata={\n            **metadatas,\n            \"x\": umap_embeds[:, 0],\n            \"y\": umap_embeds[:, 1],\n        },\n    )\n\n    result.columns = [c.lower() for c in result.columns]\n    result = result[['arg-id', 'x', 'y', 'probability']]\n    result['cluster-id'] = cluster_labels\n\n    return result\n"
+        }
+      },
+      {
+        "step": "labelling",
+        "completed": "2025-02-03T09:10:35.940100",
+        "duration": 27.795277,
+        "params": {
+          "sample_size": 30,
+          "source_code": "\"\"\"Create labels for the clusters.\"\"\"\n\nfrom tqdm import tqdm\nfrom typing import List\nimport numpy as np\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\nimport os\nimport re\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef labelling(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/labels.csv\"\n\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    clusters = pd.read_csv(f\"outputs/{dataset}/clusters.csv\")\n\n    results = pd.DataFrame()\n\n    sample_size = config['labelling']['sample_size']\n    prompt = config['labelling']['prompt']\n    model = config['labelling']['model']\n\n    question = config['question']\n    cluster_ids = clusters['cluster-id'].unique()\n\n    update_progress(config, total=len(cluster_ids))\n\n    for _, cluster_id in tqdm(enumerate(cluster_ids), total=len(cluster_ids)):\n        args_ids = clusters[clusters['cluster-id']\n                            == cluster_id]['arg-id'].values\n        args_ids = np.random.choice(args_ids, size=min(\n            len(args_ids), sample_size), replace=False)\n        args_sample = arguments[arguments['arg-id']\n                                .isin(args_ids)]['argument'].values\n\n        args_ids_outside = clusters[clusters['cluster-id']\n                                    != cluster_id]['arg-id'].values\n        args_ids_outside = np.random.choice(args_ids_outside, size=min(\n            len(args_ids_outside), sample_size), replace=False)\n        args_sample_outside = arguments[arguments['arg-id']\n                                        .isin(args_ids_outside)]['argument'].values\n\n        label = generate_label(question, args_sample,\n                               args_sample_outside, prompt, model)\n        results = pd.concat([results, pd.DataFrame(\n            [{'cluster-id': cluster_id, 'label': label}])], ignore_index=True)\n        update_progress(config, incr=1)\n\n    results.to_csv(path, index=False)\n\n\ndef generate_label(question, args_sample, args_sample_outside, prompt, model, retries=3):\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    \n    outside = '\\n * ' + '\\n * '.join(args_sample_outside)\n    inside = '\\n * ' + '\\n * '.join(args_sample)\n    input = f\"Question of the consultation:{question}\\n\\n\" + \\\n        f\"Examples of arguments OUTSIDE the cluster:\\n {outside}\" + \\\n        f\"Examples of arguments INSIDE the cluster:\\n {inside}\"\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n    final_answer = extract_answer(response)\n    return final_answer\n\ndef extract_answer(response):\n    # \u67e5\u627e <answer> \u6807\u7b7e\u4e4b\u95f4\u7684\u5185\u5bb9\n    pattern = r'<answer>(.*?)</answer>'\n    match = re.search(pattern, response, re.DOTALL)\n    if match:\n        return match.group(1).strip()\n    return response",
+          "prompt": "/system \n\nYou are a category labeling assistant that generates a category label \nfor a set of arguments within a broader consultation. You are given the main question \nof the consultation, list of arguments inside the cluster, and a list of arguments \noutside this cluster. You answer with a single category label that summarizes the \ncluster. \n\nYou do not include context that is already obvious from the question (for example: \nif the question of the consultation is something like \"what challenges are you facing \nin France\", there is no need to repeat \"in France\" in the cluster label).\n\nThe label must be very concise and just precise enough to capture what distinguishes \nthe cluster from the arguments found outside. \n\nIMPORTANT: You must format your response using XML tags as follows:\n<answer>Your category label here</answer>\n\n/human\n\nQuestion of the consultation: \"What do you think has been the impact of the UK decision to leave the EU?\"\n\nExamples of arguments OUTSIDE the cluster of interest:\n\n * We faced limitations in educational and cultural exchange opportunities due to exclusion from the Erasmus program.\n * The UK dealt with longer travel times caused by increased border checks, affecting commuters and vacationers.\n * We saw reduced cooperation in environmental standards, hindering efforts to combat climate change.\n * I experienced challenges in patient care due to disruptions in reciprocal healthcare agreements.\n * We faced complexity in residency and citizenship applications for families due to Brexit-related changes.\n * The UK witnessed hindrance in global efforts to address research challenges due to reduced collaboration opportunities.\n * We faced limitations in creative projects due to exclusion from EU cultural funding programs.\n * The UK witnessed setbacks in charitable initiatives and community support due to the loss of EU funding.\n * We experienced challenges in cross-border dispute resolution due to weakened consumer protections.\n * The UK faced limitations in touring EU countries as professional musicians, impacting careers.\n\nExamples of arguments inside the cluster:\n\n * We experienced supply chain disruptions due to Brexit, leading to increased costs and delayed deliveries for businesses.\n * I faced market fluctuations and uncertainties in investments and retirement savings because of Brexit.\n * The UK dealt with reduced profit margins as an exporter due to new tariffs and customs procedures.\n * We lost jobs because companies relocated operations to stay within the EU market post-Brexit.\n * The UK struggled with the increased cost of living caused by skyrocketing prices of imported goods.\n * We witnessed a decline in investment in the UK tech sector, impacting innovation and job opportunities.\n * The UK saw a decline in tourism due to new visa regulations, affecting hospitality businesses.\n * I experienced reduced purchasing power and increased travel expenses due to the drop in the pound's value.\n\n/ai \n\n<answer>\nNegative Financial Impact\n</answer>",
+          "model": "deepseek-r1-distill-llama-70b"
+        }
+      },
+      {
+        "step": "takeaways",
+        "completed": "2025-02-03T09:11:02.183244",
+        "duration": 26.238505,
+        "params": {
+          "sample_size": 30,
+          "source_code": "\"\"\"Create summaries for the clusters.\"\"\"\n\nfrom tqdm import tqdm\nimport os\nfrom typing import List\nimport numpy as np\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef takeaways(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/takeaways.csv\"\n\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    clusters = pd.read_csv(f\"outputs/{dataset}/clusters.csv\")\n\n    results = pd.DataFrame()\n\n    sample_size = config['takeaways']['sample_size']\n    prompt = config['takeaways']['prompt']\n    model = config['takeaways']['model']\n\n    model = config.get('model_takeaways', config.get('model', 'gpt3.5-turbo'))\n    cluster_ids = clusters['cluster-id'].unique()\n\n    update_progress(config, total=len(cluster_ids))\n\n    for _, cluster_id in tqdm(enumerate(cluster_ids), total=len(cluster_ids)):\n        args_ids = clusters[clusters['cluster-id']\n                            == cluster_id]['arg-id'].values\n        args_ids = np.random.choice(args_ids, size=min(\n            len(args_ids), sample_size), replace=False)\n        args_sample = arguments[arguments['arg-id']\n                                .isin(args_ids)]['argument'].values\n        label = generate_takeaways(args_sample, prompt, model)\n        results = pd.concat([results, pd.DataFrame(\n            [{'cluster-id': cluster_id, 'takeaways': label}])], ignore_index=True)\n        update_progress(config, incr=1)\n\n    results.to_csv(path, index=False)\n\n\ndef generate_takeaways(args_sample, prompt, model):\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    input = \"\\n\".join(args_sample)\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    return response\n",
+          "prompt": "/system \n\nYou are an expert research assistant working in a think tank. You will be given a list of arguments that have been made by a cluster of participants during a public consultation. You respond with one or two paragraphs summarizing your main takeaways. You are very concise and write short, snappy sentences which are easy to read. \n \n/human\n\n[\n  \"I firmly believe that gun violence constitutes a severe public health crisis in our society.\",\n  \"We need to address this issue urgently through comprehensive gun control measures.\", \n  \"I support the implementation of universal background checks for all gun buyers\",\n  \"I am in favor of banning assault weapons and high-capacity magazines.\",\n  \"I advocate for stricter regulations to prevent illegal gun trafficking.\",\n  \"Mental health evaluations should be a mandatory part of the gun purchasing process.\"\n]\n\n/ai \n\nParticipants called for comprehensive gun control, emphasizing universal background checks, assault weapon bans, curbing illegal gun trafficking, and prioritizing mental health evaluations.",
+          "model": "deepseek-r1-distill-llama-70b"
+        }
+      },
+      {
+        "step": "overview",
+        "completed": "2025-02-03T09:11:38.094428",
+        "duration": 35.906688,
+        "params": {
+          "source_code": "\"\"\"Create summaries for the clusters.\"\"\"\n\nfrom tqdm import tqdm\nimport os\nfrom typing import List\nimport numpy as np\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages, update_progress\n\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef overview(config):\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/overview.txt\"\n\n    takeaways = pd.read_csv(f\"outputs/{dataset}/takeaways.csv\")\n    labels = pd.read_csv(f\"outputs/{dataset}/labels.csv\")\n\n    prompt = config['overview']['prompt']\n    model = config['overview']['model']\n\n    ids = labels['cluster-id'].to_list()\n    takeaways.set_index('cluster-id', inplace=True)\n    labels.set_index('cluster-id', inplace=True)\n\n    input = ''\n    for i, id in enumerate(ids):\n        input += f\"# Cluster {i}/{len(ids)}: {labels.loc[id]['label']}\\n\\n\"\n        input += takeaways.loc[id]['takeaways'] + '\\n\\n'\n\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    # response = llm(messages=messages(prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n\n    with open(path, 'w') as file:\n        file.write(response)\n",
+          "prompt": "/system \n\nYou are an expert research assistant working in a think tank. \nYour team has run a public consultation on a given topic and has \nstarted to analyze what the different cluster of options are. \nYou will now receive the list of clusters with a brief \nanalysis of each cluster. Your job is to return a short summary of what \nthe findings were. Your summary must be very concise (at most one \nparagraph, containing at most four sentences) and you must avoid platitudes. ",
+          "model": "deepseek-r1-distill-llama-70b"
+        }
+      },
+      {
+        "step": "translation",
+        "completed": "2025-02-03T09:15:48.674379",
+        "duration": 250.574961,
+        "params": {
+          "model": "deepseek-r1-distill-llama-70b",
+          "languages": [
+            "Mandarin",
+            "Japanese"
+          ],
+          "flags": [
+            "TW",
+            "JP"
+          ],
+          "source_code": "\nimport json\nimport os\nfrom tqdm import tqdm\nimport pandas as pd\nfrom langchain.chat_models import ChatOpenAI\nfrom utils import messages\nfrom langchain.schema import AIMessage\nimport pandas as pd\nimport json\nfrom tqdm import tqdm\nfrom groq import Groq\nclient = Groq(api_key=os.getenv('KEY_groq'))\n\ndef translation(config):\n\n    dataset = config['output_dir']\n    path = f\"outputs/{dataset}/translations.json\"\n    results = {}\n\n    languages = list(config.get('translation', {}).get('languages', []))\n    if len(languages) == 0:\n        print(\"No languages specified. Skipping translation step.\")\n        # creating an empty file any, to reduce special casing later\n        with open(path, 'w') as file:\n            json.dump(results, file, indent=2)\n        return\n\n    arguments = pd.read_csv(f\"outputs/{dataset}/args.csv\")\n    labels = pd.read_csv(f\"outputs/{dataset}/labels.csv\")\n    takeaways = pd.read_csv(f\"outputs/{dataset}/takeaways.csv\")\n    with open(f\"outputs/{dataset}/overview.txt\") as f:\n        overview = f.read()\n\n    UI_copy = [\"Argument\", \"Original comment\", \"Representative arguments\",\n               \"Open full-screen map\", \"Back to report\", \"Hide labels\", \"Show labels\",\n               \"Show filters\", \"Hide filters\", \"Min. votes\", \"Consensus\",\n               \"Showing\", \"arguments\", \"Reset zoom\", \"Click anywhere on the map to close this\",\n               \"Click on the dot for details\",\n               \"agree\", \"disagree\", \"Language\", \"English\", \"arguments\", \"of total\",\n               \"Overview\", \"Cluster analysis\", \"Representative comments\", \"Introduction\",\n               \"Clusters\", \"Appendix\", \"This report was generated using an AI pipeline that consists of the following steps\",\n               \"Step\", \"extraction\", \"show code\", \"hide code\", \"show prompt\", \"hide prompt\", \"embedding\",\n               \"clustering\", \"labelling\", \"takeaways\", \"overview\"]\n\n    arg_list = arguments['argument'].to_list() + \\\n        labels['label'].to_list() + \\\n        UI_copy + \\\n        languages\n\n    if 'name' in config:\n        arg_list.append(config['name'])\n    if 'question' in config:\n        arg_list.append(config['question'])\n\n    prompt_file = config.get('translation_prompt', 'default')\n    with open(f\"prompts/translation/{prompt_file}.txt\") as f:\n        prompt = f.read()\n    model = config['model']\n\n    config['translation_prompt'] = prompt\n\n    translations = [translate_lang(\n        arg_list, 10, prompt, lang, model) for lang in languages]\n\n    # handling long takeaways differently, WITHOUT batching too much\n    long_arg_list = takeaways['takeaways'].to_list()\n    long_arg_list.append(overview)\n    if 'intro' in config:\n        long_arg_list.append(config['intro'])\n\n    long_translations = [translate_lang(\n        long_arg_list, 1, prompt, lang, model) for lang in languages]\n\n    for i, id in enumerate(arg_list):\n        print('i, id', i, id)\n        results[str(id)] = list([t[i] for t in translations])\n    for i, id in enumerate(long_arg_list):\n        results[str(id)] = list([t[i] for t in long_translations])\n\n    with open(path, 'w') as file:\n        json.dump(results, file, indent=2)\n\n\ndef translate_lang(arg_list, batch_size, prompt, lang, model):\n    translations = []\n    lang_prompt = prompt.replace(\"{language}\", lang)\n    print(f\"Translating to {lang}...\")\n    for i in tqdm(range(0, len(arg_list), batch_size)):\n        batch = arg_list[i: i + batch_size]\n        translations.extend(translate_batch(batch, lang_prompt, model))\n    return translations\n\n\ndef translate_batch(batch, lang_prompt, model, retries=3):\n    # llm = ChatOpenAI(model_name=model, temperature=0.0)\n    input = json.dumps(list(batch))\n    # response = llm(messages=messages(lang_prompt, input)).content.strip()\n    response = client.chat.completions.create(\n        messages=messages(lang_prompt, input),\n        model= 'deepseek-r1-distill-llama-70b',\n    ).choices[0].message.content.strip()\n    if \"```\" in response:\n        response = response.split(\"```\")[1]\n    if response.startswith(\"json\"):\n        response = response[4:]\n    try:\n        if '[' in response and ']' in response:\n            start_idx = response.rindex('[')\n            end_idx = response.rindex(']')\n            json_str = response[start_idx:end_idx+1]\n                \n            parsed = [a.strip() for a in json.loads(json_str)]\n            if len(parsed) != len(batch):\n                print(\"Warning: batch size mismatch!\")\n                print(\"Batch len:\", len(batch))\n                print(\"Response len:\", len(parsed))\n                for i, item in enumerate(batch):\n                    print(f\"Batch item {i}:\", item)\n                    if (i < len(parsed)):\n                        print(\"Response:\", parsed[i])\n                if (len(batch) > 1):\n                    print(\"Retrying with smaller batches...\")\n                    mid = len(batch) // 2\n                    return translate_batch(batch[:mid], lang_prompt, model, retries - 1) + \\\n                        translate_batch(\n                            batch[mid:], lang_prompt, model, retries - 1)\n                else:\n                    print(\"Retrying batch...\")\n                    return translate_batch(batch, lang_prompt, model, retries - 1)\n            else:\n                return parsed\n        else:\n            print(\"No JSON array found in response\")\n            if retries > 0:\n                print(\"Retrying...\")\n                return translate_batch(batch, lang_prompt, model, retries - 1)\n            else:\n                return []\n    except json.decoder.JSONDecodeError as e:\n        print(\"JSON error:\", e)\n        print(\"Response was:\", response)\n        if retries > 0:\n            print(\"Retrying batch...\")\n            return translate_batch(batch, lang_prompt, model, retries - 1)\n        else:\n            raise e\n",
+          "prompt": "/system \n\nYou are a professional translator.\nYou will receive a list of words and sentences written in English. \nPlease return the same list, in the same order, but translated to {language}.\nMake sure to return a valid JSON list of string of the same length as the original list."
+        }
+      }
+    ],
+    "lock_until": "2025-02-03T09:20:48.679400",
+    "current_job": "aggregation",
+    "current_job_started": "2025-02-03T09:15:48.679385",
+    "translation_prompt": "/system \n\nYou are a professional translator.\nYou will receive a list of words and sentences written in English. \nPlease return the same list, in the same order, but translated to {language}.\nMake sure to return a valid JSON list of string of the same length as the original list."
+  }
+}
