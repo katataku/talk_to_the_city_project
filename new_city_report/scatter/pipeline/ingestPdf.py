@@ -6,7 +6,7 @@ import os
 from urllib.parse import urlparse
 from tqdm import tqdm
 import logging
-import pdfplumber  
+import pdfplumber
 
 logging.basicConfig(
     level=logging.INFO,
@@ -18,6 +18,23 @@ class PDFProcessor:
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
+
+    def process_multiple_pdfs(self, urls: List[str], output_file: str):
+        all_data = []
+        for url in urls:
+            pdf_filename = os.path.basename(urlparse(url).path)
+            pdf_save_path = f"downloads/{pdf_filename}"
+            
+            os.makedirs("downloads", exist_ok=True)
+            
+            if self.download_pdf(url, pdf_save_path):
+                content = self.extract_text_from_pdf(pdf_save_path)
+                if content.strip():
+                    parsed_data = self.parse_content(content)
+                    all_data.extend(parsed_data)
+                    
+        if all_data:
+            self.save_to_csv(all_data, output_file)
 
     def download_pdf(self, url: str, save_path: str) -> bool:
         try:
@@ -59,7 +76,7 @@ class PDFProcessor:
 
     def parse_content(self, content: str) -> List[Dict]:
         try:
-            entries = re.split(r'●受付番号\s+\d+', content)[1:]  # 跳过第一个空分割
+            entries = re.split(r'●受付番号\s+\d+', content)[1:]
             receipt_numbers = re.findall(r'●受付番号\s+(\d+)', content)
             
             parsed_data = []
@@ -90,31 +107,17 @@ class PDFProcessor:
             logging.error(f"Error saving to CSV: {str(e)}")
 
 def main():
-    processor = PDFProcessor()
-
-    pdf_url = "YOUR_PDF_URL_HERE"  # 替换为实际的PDF URL
-    pdf_save_path = "downloaded.pdf"
-    csv_output = "output.csv"
+    pdf_urls = [
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94024601_01.pdf",
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94041201_01.pdf",
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94059201_01.pdf",
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94130101_01.pdf",
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94112801_01.pdf",
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94129601_01.pdf"
+    ]
     
-    try:
-        if not processor.download_pdf(pdf_url, pdf_save_path):
-            logging.error("Failed to download PDF")
-            return
-            
-        content = processor.extract_text_from_pdf(pdf_save_path)
-        if not content.strip():
-            logging.error("No text extracted from PDF")
-            return
-            
-        parsed_data = processor.parse_content(content)
-        if not parsed_data:
-            logging.error("No data parsed")
-            return
-            
-        processor.save_to_csv(parsed_data, csv_output)
-        
-    except Exception as e:
-        logging.error(f"Error in main process: {str(e)}")
-        
+    processor = PDFProcessor()
+    processor.process_multiple_pdfs(pdf_urls, "combined_output.csv")
+
 if __name__ == "__main__":
     main()
