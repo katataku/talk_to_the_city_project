@@ -6,6 +6,10 @@ const nextConfig = !report
   ? {
       output: "export",
       distDir: "out",
+      server: {
+        host: '0.0.0.0',
+        port: 3000
+      }
     }
   : {
       output: "export",
@@ -13,7 +17,8 @@ const nextConfig = !report
       assetPrefix: "./",
       env: { REPORT: report },
       server: {
-        host: '0.0.0.0'
+        host: '0.0.0.0',
+        port: 3000
       }
     };
 
