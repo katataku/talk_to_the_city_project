@@ -12,6 +12,9 @@ const nextConfig = !report
       distDir: `../pipeline/outputs/${report}/report`,
       assetPrefix: "./",
       env: { REPORT: report },
+      server: {
+        host: '0.0.0.0'
+      }
     };
 
 module.exports = nextConfig;
