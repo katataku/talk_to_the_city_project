@@ -1,0 +1,44 @@
+version: '0.1'
+
+services:
+  reports-python:
+    build:
+      context: .
+      dockerfile: Dockerfile.python
+    volumes:
+      - ./scatter/pipeline:/app
+    working_dir: /app
+    # 假设配置文件 config.json 位于项目根目录中，
+    # 并且 Python 脚本会读取该配置并生成报告到 outputs 目录下
+    # command: tail -f /dev/null
+    stdin_open: true
+    tty: true 
+    # command: ["CMD"]
+    # healthcheck:
+    #   test: ["CMD", "python", "pipeline/main.py", "configs/my-project.json", "--check-health"]
+    #   interval: 30s
+    #   retries: 3
+    networks:
+      - my-network
+  next-app:
+    build:
+      context: .
+      dockerfile: Dockerfile.next
+    depends_on:
+      - reports-python
+    ports:
+      - "3000:3000"
+      - "9229:9229"
+    volumes:
+      - ./scatter/pipeline:/app/pipeline
+    # working_dir: /app/next-app
+    environment:
+      - HOST=0.0.0.0  
+    stdin_open: true
+    tty: true
+    networks:
+      - my-network 
+
+networks:
+  my-network:
+    driver: bridge

@@ -1,0 +1,338 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Talk to the City Turbo",
+    "version": "0.0.1"
+  },
+  "components": {
+    "securitySchemes": {
+      "BearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "BearerAuth": []
+    }
+  ],
+  "paths": {
+    "/api/authenticated-proxy/openai/v1/chat/completions": {
+      "post": {
+        "operationId": "openAIAuthenticatedProxy",
+        "summary": "Enables users to make calls to OpenAI's API using server-side credentials.",
+        "description": "This endpoint acts as a proxy, forwarding all body and header data to OpenAI's API.",
+        "parameters": [
+          {
+            "name": "ownerUid",
+            "in": "query",
+            "required": true,
+            "description": "UID of the dataset owner",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OpenAI response.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized request."
+          },
+          "404": {
+            "description": "User not found."
+          },
+          "500": {
+            "description": "Internal server error."
+          }
+        },
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/dataset/{dataset}": {
+      "get": {
+        "operationId": "getDataset",
+        "summary": "Retrieves a dataset",
+        "description": "Loads and processes a dataset based on the provided slug.",
+        "parameters": [
+          {
+            "name": "dataset",
+            "in": "path",
+            "required": true,
+            "description": "The slug of the dataset to load and process. e.g heal-michigan-9.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Returns the processed dataset.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized, token is missing or invalid."
+          },
+          "500": {
+            "description": "Internal server error."
+          }
+        },
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/dataset/{dataset}/chat/completions": {
+      "post": {
+        "operationId": "chat",
+        "summary": "Lets the user chat with the dataset",
+        "description": "This endpoint lets the user chat with the dataset.",
+        "parameters": [
+          {
+            "name": "dataset",
+            "in": "path",
+            "required": true,
+            "description": "The slug of the dataset e.g., heal-michigan-9",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "messages": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "role": {
+                          "type": "string",
+                          "enum": [
+                            "user",
+                            "assistant",
+                            "system"
+                          ]
+                        },
+                        "content": {
+                          "type": "string",
+                          "example": "Summarize your opinions in 50 words."
+                        }
+                      }
+                    }
+                  },
+                  "OPENAI_KEY": {
+                    "type": "string",
+                    "description": "OpenAI API key for authentication"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successfully generated the chat",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized request"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        },
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/dataset/{dataset}/node/{node}": {
+      "get": {
+        "operationId": "getNode",
+        "summary": "Retrieves a specific node from a dataset",
+        "description": "This endpoint retrieves a node from a dataset using the provided dataset and node as path parameters. The dataset is used to load the dataset and the node is used to retrieve the specific node.",
+        "parameters": [
+          {
+            "name": "dataset",
+            "in": "path",
+            "required": true,
+            "description": "The slug of the dataset to retrieve the node from e.g heal-michigan-9",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "node",
+            "in": "path",
+            "required": true,
+            "description": "The id of the node to retrieve from the dataset e.g cluster_extraction_1",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully retrieved the node",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized request"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        },
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/db/conform": {
+      "get": {
+        "operationId": "Conform",
+        "summary": "admin endpoint conform dataset data to their latest schema",
+        "description": "since node schemas can be modified, this endpoint will conform all datasets to their latest schema",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "dryRun",
+            "required": false,
+            "description": "Executes conforming in dry run mode without committing changes. Defaults to true.",
+            "schema": {
+              "type": "boolean",
+              "default": true
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successfully conformed datasets",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized request"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        },
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ]
+      }
+    },
+    "/api/users/info/email": {
+      "get": {
+        "operationId": "userEmail",
+        "summary": "Gets the email for a user id",
+        "description": null,
+        "parameters": [
+          {
+            "name": "uid",
+            "in": "query",
+            "required": true,
+            "description": "UID for the user",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Got email address",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "email": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized request"
+          },
+          "404": {
+            "description": "User not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        },
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ]
+      }
+    }
+  },
+  "tags": []
+}

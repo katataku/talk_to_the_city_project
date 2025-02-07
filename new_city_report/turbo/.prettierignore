@@ -1,0 +1,23 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.firebase
+coverage
+input
+src/tmp
+src/lib/rs
+src/lib/pkg
+src/lib/jq.js
+src/lib/pyodide/
+static/swagger*
+static/smui.css
+
+# Ignore files for PNPM, NPM and YARN
+pnpm-lock.yaml
+package-lock.json
+yarn.lock

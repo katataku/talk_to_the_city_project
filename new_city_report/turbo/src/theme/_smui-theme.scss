@@ -1,0 +1,44 @@
+@use 'sass:color';
+
+@use '@material/theme/color-palette';
+
+@use '@material/theme/index' as theme with (
+  $primary: #5d6ee1,
+  $secondary: #676778,
+  $surface: rgba(255, 255, 255, 1),
+  $background: rgba(255, 255, 255, 1),
+  $error: color-palette.$red-900
+);
+
+@use '@smui/paper/mixins' as paper;
+@use '@material/theme/theme-color';
+
+html,
+body {
+  background-color: theme.$surface;
+  color: theme.$on-surface;
+}
+
+a {
+  color: theme.$primary;
+}
+a:visited {
+  color: darken(theme.$primary, 15%);
+}
+
+.mdc-button {
+  --mdc-theme-primary: theme.$primary;
+  --mdc-theme-on-primary: #fff;
+}
+
+$custom-color: #76a99d;
+
+@include paper.paper-color(
+  aoi-green,
+  $custom-color,
+  theme-color.accessible-ink-color($custom-color)
+);
+
+.aoi-green {
+  color: $custom-color;
+}

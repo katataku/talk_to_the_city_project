@@ -1,0 +1,19 @@
+FROM node:20-alpine
+
+WORKDIR /app/next-app
+
+# 拷贝前端代码及 package.json（假设 next-app 目录中有 package.json）
+COPY scatter/next-app/package*.json ./
+RUN npm install
+
+# 拷贝全部前端代码
+COPY scatter/next-app .
+# # 构建 Next.js 应用
+# RUN npm run build
+
+# # # 导出静态文件（如果需要）
+# RUN npm run export
+
+# 构建（如果需要）或者直接启动开发/生产服务器
+# EXPOSE 3000
+CMD ["npm", "run", "dev"]
