@@ -6,7 +6,7 @@ import os
 from urllib.parse import urlparse
 from tqdm import tqdm
 import logging
-import pypdf
+import pdfplumber  
 
 logging.basicConfig(
     level=logging.INFO,
@@ -15,7 +15,9 @@ logging.basicConfig(
 
 class PDFProcessor:
     def __init__(self):
-        self.headers = {}
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
 
     def download_pdf(self, url: str, save_path: str) -> bool:
         try:
@@ -23,7 +25,13 @@ class PDFProcessor:
             response.raise_for_status()
             
             total_size = int(response.headers.get('content-length', 0))
-            progress_bar = tqdm(total=total_size, unit='iB', unit_scale=True, desc=f'Downloading {os.path.basename(save_path)}')
+            
+            progress_bar = tqdm(
+                total=total_size,
+                unit='iB',
+                unit_scale=True,
+                desc=f'Downloading {os.path.basename(save_path)}'
+            )
 
             with open(save_path, 'wb') as file:
                 for data in response.iter_content(chunk_size=1024):
@@ -41,9 +49,9 @@ class PDFProcessor:
     def extract_text_from_pdf(self, pdf_path: str) -> str:
         try:
             text = ""
-            reader = pypdf.PdfReader(pdf_path)
-            for page in tqdm(reader.pages, desc="Extracting text from PDF"):
-                text += page.extract_text() or ""
+            with pdfplumber.open(pdf_path) as pdf:
+                for page in tqdm(pdf.pages, desc="Extracting text from PDF"):
+                    text += page.extract_text() or ""
             return text
         except Exception as e:
             logging.error(f"Error extracting text from PDF: {str(e)}")
@@ -51,11 +59,16 @@ class PDFProcessor:
 
     def parse_content(self, content: str) -> List[Dict]:
         try:
-            entries = re.split(r'●受付番号\s+\d+', content)[1:]
+            entries = re.split(r'●受付番号\s+\d+', content)[1:]  # 跳过第一个空分割
             receipt_numbers = re.findall(r'●受付番号\s+(\d+)', content)
             
             parsed_data = []
-            for i, (entry, receipt_num) in enumerate(tqdm(zip(entries, receipt_numbers), total=len(entries), desc="Parsing entries")):
+            
+            for i, (entry, receipt_num) in enumerate(tqdm(
+                zip(entries, receipt_numbers),
+                total=len(entries),
+                desc="Parsing entries"
+            )):
                 parsed_data.append({
                     '受付番号': receipt_num,
                     '内容': entry.strip()
@@ -76,35 +89,30 @@ class PDFProcessor:
         except Exception as e:
             logging.error(f"Error saving to CSV: {str(e)}")
 
-    def process_urls(self, urls: List[str], output_dir: str = "output"):
-        os.makedirs(output_dir, exist_ok=True)
-        all_data = []
-
-        for i, url in enumerate(urls, 1):
-            pdf_name = f"doc_{i}.pdf"
-            pdf_path = os.path.join(output_dir, pdf_name)
-            
-            if self.download_pdf(url, pdf_path):
-                content = self.extract_text_from_pdf(pdf_path)
-                if content.strip():
-                    parsed_data = self.parse_content(content)
-                    all_data.extend(parsed_data)
-                    
-                    # Optional: Remove PDF after processing
-                    os.remove(pdf_path)
-                    
-        if all_data:
-            output_csv = os.path.join(output_dir, "combined_output.csv")
-            self.save_to_csv(all_data, output_csv)
-
 def main():
     processor = PDFProcessor()
-    
-    with open('pdf_path.txt', 'r', encoding='utf-8') as f:
-        urls = [line.strip() for line in f if line.strip()]
+
+    pdf_url = "YOUR_PDF_URL_HERE"  # 替换为实际的PDF URL
+    pdf_save_path = "downloaded.pdf"
+    csv_output = "output.csv"
     
     try:
-        processor.process_urls(urls)
+        if not processor.download_pdf(pdf_url, pdf_save_path):
+            logging.error("Failed to download PDF")
+            return
+            
+        content = processor.extract_text_from_pdf(pdf_save_path)
+        if not content.strip():
+            logging.error("No text extracted from PDF")
+            return
+            
+        parsed_data = processor.parse_content(content)
+        if not parsed_data:
+            logging.error("No data parsed")
+            return
+            
+        processor.save_to_csv(parsed_data, csv_output)
+        
     except Exception as e:
         logging.error(f"Error in main process: {str(e)}")
         
