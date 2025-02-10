@@ -12,7 +12,7 @@ services:
     # 并且 Python 脚本会读取该配置并生成报告到 outputs 目录下
     # command: tail -f /dev/null
     stdin_open: true
-    tty: true 
+    tty: true
     # command: ["CMD"]
     # healthcheck:
     #   test: ["CMD", "python", "pipeline/main.py", "configs/my-project.json", "--check-health"]
@@ -20,6 +20,9 @@ services:
     #   retries: 3
     networks:
       - my-network
+    env_file:
+      - scatter/pipeline/.env
+
   next-app:
     build:
       context: .
@@ -33,11 +36,11 @@ services:
       - ./scatter/pipeline:/app/pipeline
     # working_dir: /app/next-app
     environment:
-      - HOST=0.0.0.0  
+      - HOST=0.0.0.0
     stdin_open: true
     tty: true
     networks:
-      - my-network 
+      - my-network
 
 networks:
   my-network:
