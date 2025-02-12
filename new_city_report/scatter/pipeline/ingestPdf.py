@@ -87,8 +87,8 @@ class PDFProcessor:
                 desc="Parsing entries"
             )):
                 parsed_data.append({
-                    '受付番号': receipt_num,
-                    '内容': entry.strip()
+                    'comment-id': receipt_num,
+                    'comment-body': entry.strip()
                 })
                 
             logging.info(f"Successfully parsed {len(parsed_data)} entries")
@@ -108,16 +108,16 @@ class PDFProcessor:
 
 def main():
     pdf_urls = [
-        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94024601_01.pdf",
-        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94041201_01.pdf",
-        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94059201_01.pdf",
-        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94130101_01.pdf",
-        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94112801_01.pdf",
-        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94129601_01.pdf"
+        "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94024601_01.pdf"
+        # "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94041201_01.pdf",
+        # "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94059201_01.pdf",
+        # "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94130101_01.pdf",
+        # "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94112801_01.pdf",
+        # "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/hoseido/r05_07/pdf/94129601_01.pdf"
     ]
     
     processor = PDFProcessor()
-    processor.process_multiple_pdfs(pdf_urls, "combined_output.csv")
+    processor.process_multiple_pdfs(pdf_urls, "inputs/aipdfs.csv")
 
 if __name__ == "__main__":
     main()
